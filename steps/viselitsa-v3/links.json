@@ -1,0 +1,30 @@
+{
+  "help": [
+    {
+      "title": "Виселица ASCII art",
+      "url": "http://ascii.co.uk/art/hangman"
+    },
+    {
+      "title": "Игра Виселица",
+      "url": "https://ru.wikipedia.org/wiki/Виселица_(игра)"
+    },
+    {
+      "title": "Документация класса File",
+      "url": "http://ruby-doc.org/core-2.3.0/File.html"
+    },
+    {
+      "title": "Чтение и запись файлов в Руби",
+      "url": "http://rubylearning.com/satishtalim/read_write_files.html"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Виселица, версия 3",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/viselitsa-v3/files/"
+    },
+    {
+      "title": "Виселица, версия 3 (ZIP архив)",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/viselitsa-v3/files/viselitsa_v3.zip"
+    }
+  ]
+}

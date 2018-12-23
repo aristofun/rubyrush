@@ -1,0 +1,26 @@
+{
+  "help": [
+    {
+      "title": "Отличная книга по математике для программистов",
+      "url": "https://cloud.mail.ru/public/32dR/eH6RG9R2S"
+    },
+    {
+      "title": "Еще одна подборка книг, с которыми должен быть знаком каждый программист",
+      "url": "http://mexalib.com/list/4"
+    },
+    {
+      "title": "Официальная страница поддержки RubyMine (eng)",
+      "url": "https://www.jetbrains.com/ruby/documentation/"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Проект «Виселица»",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/ide-rubymine/files/viselitsa.zip"
+    },
+    {
+      "title": "Программа «Монетка»",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/ide-rubymine/files/coin.rb"
+    }
+  ]
+}

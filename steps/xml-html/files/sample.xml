@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- комментарии вот так пишутся -->
+
+<account>
+
+  <photos>
+    <photo title="фоточка 1"/>
+    <photo title="фоточка 2"/>
+  </photos>
+
+  <friends total="2">
+    <friend number="1">Гоша</friend>
+    <friend number="2">Петя</friend>
+  </friends>
+
+</account>

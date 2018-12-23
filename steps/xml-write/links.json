@@ -1,0 +1,34 @@
+{
+  "help": [
+    {
+      "title": "Мощная книга по XPath и XSLT для экспертов",
+      "url": "http://www.amazon.com/XSLT-2-0-XPath-Programmers-Reference/dp/0470192747"
+    },
+    {
+      "title": "Отличия XML от HTML",
+      "url": "http://okitgo.ru/xml/xml-format.html"
+    },
+    {
+      "title": "Что такое XPath",
+      "url": "https://ru.wikipedia.org/wiki/XPath"
+    },
+    {
+      "title": "Игры с XPath",
+      "url": "http://habrahabr.ru/post/65383/"
+    }
+  ],
+  "materials": [
+    {
+      "title": "«Личные финансы», версия 2",
+      "url": "https://github.com/aristofun/rubyrush-path/tree/master/steps/xml-write/files/expenses_tracker/"
+    },
+    {
+      "title": "Обзор возможностей XPath",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/xml-write/files/XPath_cheatshit.pdf"
+    },
+    {
+      "title": "Чит-шит XPath",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/xml-write/files/XPath_cheatshit_2.pdf"
+    }
+  ]
+}

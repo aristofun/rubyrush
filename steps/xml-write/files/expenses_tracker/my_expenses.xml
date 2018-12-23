@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<expenses>
+  <expense amount='900' category='Образование' date='9.7.2015'>
+     Книжка по Ruby on Rails 
+  </expense>
+  <expense amount='400' category='Хороший программист' date='1.7.2015'>
+     Петличка и провода 
+  </expense>
+  <expense amount='3500' category='Хороший программист' date='23.6.2015'>
+     Софтбокс + штатив 
+  </expense>
+  <expense amount='200' category='Развлечения' date='2015.07.12'>
+     Компот 
+  </expense>
+  <expense amount='500' category='Хрень' date='2015.09.12'>
+    Всякая хрень
+  </expense>
+</expenses>

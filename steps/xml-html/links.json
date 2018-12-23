@@ -1,0 +1,30 @@
+{
+  "help": [
+    {
+      "title": "XML для чайников",
+      "url": "http://msiter.ru/tutorials/uchebnik-xml-dlya-nachinayushchih"
+    },
+    {
+      "title": "Как работать с парсером REXML (eng)",
+      "url": "http://www.germane-software.com/software/rexml/docs/tutorial.html"
+    },
+    {
+      "title": "Основы XML для начинающих",
+      "url": "https://www.ibm.com/developerworks/ru/library/x-newxml/"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Программа Личные финансы, v.1",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/xml-html/files/expenses_tracker.zip"
+    },
+    {
+      "title": "Документ Word в виде zip",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/xml-html/files/patsansky_kiker.docx.zip"
+    },
+    {
+      "title": "Пример простого XML файла",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/xml-html/files/sample.xml"
+    }
+  ]
+}

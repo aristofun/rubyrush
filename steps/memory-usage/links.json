@@ -1,0 +1,46 @@
+{
+  "help": [
+    {
+      "title": "Сборка мусора в программировании",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BC%D1%83%D1%81%D0%BE%D1%80%D0%B0_%28%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%29"
+    },
+    {
+      "title": "Как работает сборщик мусора в Ruby 2.2",
+      "url": "http://habrahabr.ru/post/250079/"
+    },
+    {
+      "title": "Как менялся сборщик мусора в Ruby",
+      "url": "http://habrahabr.ru/post/208256/"
+    },
+    {
+      "title": "Как Ruby использует память (eng)",
+      "url": "http://www.sitepoint.com/ruby-uses-memory/"
+    },
+    {
+      "title": "Подробнее о памяти в Ruby (слайды)",
+      "url": "http://www.slideshare.net/vasfed/ss-15765868"
+    },
+    {
+      "title": "Прекрасная книга о том, как устроен компьютер с точки зрения программиста",
+      "url": "http://www.litres.ru/charlz-petcold/kod-taynyy-yazyk-informatiki/?lfrom=14517722"
+    },
+    {
+      "title": "О блоках в руби (продвинутая тема)",
+      "url": "http://rubylearning.com/satishtalim/ruby_blocks.html"
+    },
+    {
+      "title": "What are blocks, procs, and lambdas? (eng)",
+      "url": "http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Программа «Винни-Пух», версия 1",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/memory-usage/files/bear_honeypots.rb"
+    },
+    {
+      "title": "Программа «Винни-Пух», версия 2",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/memory-usage/files/bear_honeypots_collector.rb"
+    }
+  ]
+}

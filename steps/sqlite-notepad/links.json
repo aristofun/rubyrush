@@ -1,0 +1,58 @@
+{
+  "help": [
+    {
+      "title": "Редактор SQLite #1",
+      "url": "http://sqlitebrowser.org/"
+    },
+    {
+      "title": "Редактор SQLite #2",
+      "url": "https://dbeaver.jkiss.org/"
+    },
+    {
+      "title": "Редактор SQLite #3",
+      "url": "https://sqlitestudio.pl/index.rvt"
+    },
+    {
+      "title": "Работа с гемом sqlite3",
+      "url": "http://www.rubydoc.info/gems/sqlite3/frames"
+    },
+    {
+      "title": "SQLFiddle.com — онлайн тестирование SQL запросов",
+      "url": "http://sqlfiddle.com"
+    },
+    {
+      "title": "https://www.sqlite.org/datatype3.html",
+      "url": "https://www.sqlite.org/datatype3.html"
+    },
+    {
+      "title": "О порядке хранения значений и ключей в ruby hash (eng)",
+      "url": "http://stackoverflow.com/questions/11350500/ruby-hash-keys-and-values-safe-to-assume-same-order"
+    },
+    {
+      "title": "Особенности работы перегрузки методов в Ruby (eng)",
+      "url": "http://stackoverflow.com/questions/9373104/why-doesnt-ruby-support-method-overloading"
+    },
+    {
+      "title": "Проектирование баз данных для новичков",
+      "url": "http://habrahabr.ru/post/193136/"
+    },
+    {
+      "title": "Основы современных баз данных",
+      "url": "http://citforum.ru/database/osbd/contents.shtml"
+    }
+  ],
+  "materials": [
+    {
+      "title": "«Блокнот», версия 2 с SQLite",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/sqlite-notepad/files/notepad.zip"
+    },
+    {
+      "title": "SQL схема БД для ДЗ",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/sqlite-notepad/files/companies_people.sql.txt"
+    },
+    {
+      "title": "Структура таблиц блокнота",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/sqlite-notepad/files/notepad.sql.txt"
+    }
+  ]
+}

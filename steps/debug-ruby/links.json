@@ -1,0 +1,34 @@
+{
+  "help": [
+    {
+      "title": "CHEAT Sheet byebug-a",
+      "url": "http://fleeblewidget.co.uk/2014/05/byebug-cheatsheet/"
+    },
+    {
+      "title": "Гем byebug",
+      "url": "https://github.com/deivid-rodriguez/byebug"
+    },
+    {
+      "title": "Работа с дебагером в RubyMine (eng)",
+      "url": "https://www.jetbrains.com/ruby/help/starting-the-debugger-session.html"
+    },
+    {
+      "title": "Как решается квадратное уравнение",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B5_%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5"
+    },
+    {
+      "title": "О комплексных числах",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Плохая версия квадратного уравнения",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/debugger/files/equation_bad.rb"
+    },
+    {
+      "title": "Хорошая версия квадратного уравнения",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/debugger/files/equation_good.rb"
+    }
+  ]
+}

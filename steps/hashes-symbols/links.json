@@ -1,0 +1,50 @@
+{
+  "help": [
+    {
+      "title": "Документация на Символы",
+      "url": "http://ruby-doc.org/core-2.2.0/Symbol.html"
+    },
+    {
+      "title": "Продвинутая работа с хэшами (eng)",
+      "url": "http://blog.honeybadger.io/advanced-ruby-hash-techniques/"
+    },
+    {
+      "title": "Что такое ассоциативный массив",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2"
+    },
+    {
+      "title": "Документация на класс Hash",
+      "url": "http://ruby-doc.org/core-2.2.2/Hash.html"
+    },
+    {
+      "title": "Туториал по работе с хэшами в Ruby",
+      "url": "https://ru.wikibooks.org/wiki/Ruby/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA/Hash"
+    },
+    {
+      "title": "Хорошее объяснение блоков в руби",
+      "url": "http://nashbridges.me/blocks-in-ruby"
+    },
+    {
+      "title": "Еще про блоки, lambdas и proc",
+      "url": "http://rails.vsevteme.ru/2010/07/13/samorazvitie/block-proc-i-lambda-v-ruby"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Программа «Таблица Менделеева»",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/hashes-symbols/files/mendeleev.rb"
+    },
+    {
+      "title": "Программа отправки почты",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/hashes-symbols/files/send_mail.rb"
+    },
+    {
+      "title": "«Герой–Антигерой», старая версия",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/hashes-symbols/files/hero_antihero_old.rb"
+    },
+    {
+      "title": "«Герой–Антигерой», новая версия",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/hashes-symbols/files/hero_antihero_new.rb"
+    }
+  ]
+}

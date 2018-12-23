@@ -1,0 +1,38 @@
+{
+  "help": [
+    {
+      "title": "Перевод неизвестных слов и сайтов с английского на русский",
+      "url": "https://translate.google.ru/"
+    },
+    {
+      "title": "Почему вам стоит изучать программирование? Интересное видео",
+      "url": "http://www.youtube.com/watch?v=Ywwu2dyEZ5w"
+    },
+    {
+      "title": "Альтернативный взгляд на вопрос «Как стать программистом?»",
+      "url": "http://habrahabr.ru/post/202988/"
+    },
+    {
+      "title": "Можно ли стать программистом после тридцати?",
+      "url": "http://habrahabr.ru/post/204168/"
+    },
+    {
+      "title": "17—летний программист—мультимиллионер",
+      "url": "http://www.youtube.com/watch?v=b8BmFjzqFvI"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Делаем первые шаги :)",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/about-course/files/13.gif"
+    },
+    {
+      "title": "Как неправильно учиться рисовать сову",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/about-course/files/4.jpg"
+    },
+    {
+      "title": "Как правильно учиться рисовать сову!",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/about-course/files/10.jpg"
+    }
+  ]
+}

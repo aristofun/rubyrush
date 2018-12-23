@@ -1,0 +1,62 @@
+{
+  "help": [
+    {
+      "title": "Читшит команд терминала Windows",
+      "url": "http://simplyadvanced.net/blog/cheat-sheet-for-windows-command-prompt/"
+    },
+    {
+      "title": "Продвинутый гайд по работе с терминалом MacOS/Ubuntu",
+      "url": "https://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts"
+    },
+    {
+      "title": "Работа в командной строке Windows (2)",
+      "url": "http://nevor.ru/stati/operacionnye-sistemy/stati-dlya-windows/rabota-v-komandnoj-stroke-windows/"
+    },
+    {
+      "title": "Работа в командной строке Windows (1)",
+      "url": "http://beginpc.ru/windows/komandnaya-stroka"
+    },
+    {
+      "title": "Подбробнее о редакторе Sublime",
+      "url": "http://habrahabr.ru/post/147856/"
+    },
+    {
+      "title": "RVM для пользователей Mac OS X и Linux",
+      "url": "https://rvm.io/"
+    },
+    {
+      "title": "RubyInstaller под Windows",
+      "url": "http://rubyinstaller.org/"
+    },
+    {
+      "title": "Русскоязычная помощь по Sublime",
+      "url": "http://sublimetext.ru/documentation"
+    },
+    {
+      "title": "Текстовый редактор Sublime",
+      "url": "http://www.sublimetext.com"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Шпаргалка (Cheat sheet) Sublime 2",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/setup-ruby/files/sublime_text_2_cheatsheet_ru.png"
+    },
+    {
+      "title": "Осторожнее с программированием :)",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/setup-ruby/files/hello_world_comic.jpg"
+    },
+    {
+      "title": "Программа «Hello, world!»",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/setup-ruby/files/hello.rb"
+    },
+    {
+      "title": "Шпаргалка Sublime 3",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/setup-ruby/files/sublime_text_3_cheatsheet_en.pdf"
+    },
+    {
+      "title": "Шпаргалка Sublime 3 для MacOS",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/setup-ruby/files/sublime-text-3-osx.pdf"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "help": [
+    {
+      "title": "Как пользоваться XPath в Nokogiri (eng)",
+      "url": "http://stackoverflow.com/questions/2080799/how-do-i-use-xpath-in-nokogiri"
+    },
+    {
+      "title": "Что такое XPath",
+      "url": "https://ru.wikipedia.org/wiki/XPath"
+    },
+    {
+      "title": "По-простому о протоколе HTTP",
+      "url": "http://habrahabr.ru/post/215117/"
+    },
+    {
+      "title": "Чуть подробнее про HTTP",
+      "url": "http://habrahabr.ru/post/137924/"
+    },
+    {
+      "title": "Гем Mechanize",
+      "url": "https://github.com/sparklemotion/mechanize"
+    },
+    {
+      "title": "XML экспорт от Метеосервис",
+      "url": "http://www.meteoservice.ru/content/export.html"
+    },
+    {
+      "title": "Как решить проблему в Ruby с SSL сертификатом на Windows",
+      "url": "https://gist.github.com/fnichol/867550#the-manual-way-boring"
+    },
+    {
+      "title": "XPath в примерах",
+      "url": "http://habrahabr.ru/post/65383/"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Рецепты XPath, CSS (как искать информацию в сложном XML) 2",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/network/files/xpath_css_recipes_2.pdf"
+    },
+    {
+      "title": "Рецепты XPath, CSS (как искать информацию в сложном XML) 1",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/network/files/xpath_css_recipes_1.pdf"
+    },
+    {
+      "title": "Прогноз погоды, XML от Метеосервиса",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/network/files/meteoservice.rb"
+    }
+  ]
+}

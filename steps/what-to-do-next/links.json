@@ -1,0 +1,57 @@
+{
+  "help": [
+    {
+      "title": "Лучший туториал по Ruby on Rails (eng)",
+      "url": "https://www.railstutorial.org/"
+    },
+    {
+      "title": "JavaScript: Лучшая книга для начинающих",
+      "url": "http://karmazzin.gitbooks.io/eloquentjavascript_ru/"
+    },
+    {
+      "title": "Android: Крутая книга для продвинутых (eng)",
+      "url": "https://commonsware.com/Android/"
+    },
+    {
+      "title": "Python: Неплохой вводный курс",
+      "url": "https://www.coursera.org/course/interactivepython1"
+    },
+    {
+      "title": "C++: Хорошая книга по мобильным играм (eng)",
+      "url": "https://www.packtpub.com/game-development/cocos2d-x-example-beginners-guide-second-edition"
+    },
+    {
+      "title": "Java: Хорошая книга по мобильным играм (eng)",
+      "url": "http://www.amazon.com/gp/product/1783554770/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687642\u0026pf_rd_s=lpo-top-stripe-1\u0026pf_rd_t=201\u0026pf_rd_i=1784399299\u0026pf_rd_m=ATVPDKIKX0DER\u0026pf_rd_r=0JA8WHKF1VA7ZFXBQRPY"
+    },
+    {
+      "title": "Культовая книга про работу программиста",
+      "url": "http://www.litres.ru/stiv-makkonnell/sovershennyy-kod-prakticheskoe-rukovodstvo-po-razrabotke-programmnogo-obespecheniya/?lfrom=14517722"
+    },
+    {
+      "title": "JavaScript: Лучшая книга для продолжающих",
+      "url": "http://www.litres.ru/duglas-krokford/javascript-silnye-storony/?lfrom=14517722"
+    },
+    {
+      "title": "PHP: Нормальная книга по PHP и MySQL",
+      "url": "http://www.litres.ru/kevin-yank-2/php-i-mysql-ot-novichka-k-professionalu-2/?lfrom=14517722"
+    },
+    {
+      "title": "Android: Очень хорошая вводная книга",
+      "url": "https://cloud.mail.ru/public/GEG7/HKPmYGbap"
+    },
+    {
+      "title": "С++: Хорошая вводная книга",
+      "url": "https://cloud.mail.ru/public/74Sy/rWvwuiZqA"
+    },
+    {
+      "title": "Java: Очень классная книга для новичков",
+      "url": "https://cloud.mail.ru/public/3ebf/t3FD836fL"
+    },
+    {
+      "title": "C++: Книга для начинающих и продолжающих",
+      "url": "https://cloud.mail.ru/public/9WzM/4d3H2NLdH"
+    }
+  ],
+  "materials": []
+}

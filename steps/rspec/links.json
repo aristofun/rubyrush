@@ -1,0 +1,46 @@
+{
+  "help": [
+    {
+      "title": "RSpec для новичков (eng)",
+      "url": "http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297"
+    },
+    {
+      "title": "Еще одно хорошее введение в RSpec (eng)",
+      "url": "http://blog.teamtreehouse.com/an-introduction-to-rspec"
+    },
+    {
+      "title": "Официальный сайт RSpec",
+      "url": "http://rspec.info/"
+    },
+    {
+      "title": "Юнит–тесты для чайников",
+      "url": "http://habrahabr.ru/post/169381/"
+    },
+    {
+      "title": "Типичные отговорки плохих программистов :)",
+      "url": "http://habrahabr.ru/post/112685/"
+    },
+    {
+      "title": "Толковая книга о Test Driven Development",
+      "url": "https://cloud.mail.ru/public/L3ag/f5S5D1tyA"
+    },
+    {
+      "title": "Главная книга про рефакторинг",
+      "url": "http://www.books.ru/books/refaktoring-uluchshenie-sushchestvuyushchego-koda-fail-pdf-552092/?show=1"
+    },
+    {
+      "title": "Как писать тесты на RSpec стильно",
+      "url": "https://github.com/reachlocal/rspec-style-guide"
+    }
+  ],
+  "materials": [
+    {
+      "title": "«Склонятор» и тесты до рефакторинга",
+      "url": "https://github.com/aristofun/rubyrush-path/tree/master/steps/rspec/files/sklonjator/"
+    },
+    {
+      "title": "«Склонятор» и тесты после рефакторинга",
+      "url": "https://github.com/aristofun/rubyrush-path/tree/master/steps/rspec/files/sklonjator_refactored/"
+    }
+  ]
+}

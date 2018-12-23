@@ -1,0 +1,19 @@
+
+CREATE TABLE "people" (
+  "name" TEXT,
+  "phone" TEXT,
+  "company_id" INTEGER
+);
+
+CREATE TABLE "companies" (
+  "name" TEXT
+);
+
+INSERT INTO companies VALUES ('GP');
+INSERT INTO companies VALUES ('Apple');
+INSERT INTO companies VALUES ('Apple');
+
+INSERT INTO people VALUES ('Mike', '123', 1);
+INSERT INTO people VALUES ('John', '777', 2);
+INSERT INTO people VALUES ('Vadik', '555', 3);
+INSERT INTO people VALUES ('Max', '000', 3);

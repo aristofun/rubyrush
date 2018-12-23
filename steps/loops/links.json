@@ -1,0 +1,54 @@
+{
+  "help": [
+    {
+      "title": "Ruby Iterators, Enumerators, Enumerable, and Loops",
+      "url": "http://www.zenruby.info/2016/06/ruby-iterators-enumerators-enumerable.html"
+    },
+    {
+      "title": "Забыл прописать выход из цикла :)",
+      "url": "http://developerslife.ru/11352"
+    },
+    {
+      "title": "1001 способ обработать массив в цикле в Ruby (eng)",
+      "url": "http://stackoverflow.com/questions/310634/what-is-the-right-way-to-iterate-through-an-array-in-ruby"
+    },
+    {
+      "title": "Про бесконечный цикл",
+      "url": "http://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D1%86%D0%B8%D0%BA%D0%BB"
+    },
+    {
+      "title": "Циклы в Ruby (2)",
+      "url": "http://www.tutorialspoint.com/ruby/ruby_loops.htm"
+    },
+    {
+      "title": "Циклы и итераторы в Ruby (1)",
+      "url": "http://www.230100.msiu.ru/files/16068-lecture.html"
+    },
+    {
+      "title": "Циклы в программировании",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D0%BB_%28%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%29"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Перебираем яйца",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/loops/files/eggs.rb"
+    },
+    {
+      "title": "Работаем со временем",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/loops/files/time.rb"
+    },
+    {
+      "title": "Кто же такая Элис?",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/loops/files/alice.rb"
+    },
+    {
+      "title": "Вечный цикл :)",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/loops/files/funny_cycle.gif"
+    },
+    {
+      "title": "Работаем с циклами",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/loops/files/cycles.rb"
+    }
+  ]
+}

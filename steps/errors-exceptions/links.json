@@ -1,0 +1,34 @@
+{
+  "help": [
+    {
+      "title": "Работа с исключениями в Ruby (2)",
+      "url": "http://www.tutorialspoint.com/ruby/ruby_exceptions.htm"
+    },
+    {
+      "title": "Работа с исключениями в Ruby (1)",
+      "url": "http://htmlstudio.ru/%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B9-rescue/"
+    },
+    {
+      "title": "Когда обработал все исключения :)",
+      "url": "http://developerslife.ru/9997"
+    },
+    {
+      "title": "Ищем ошибку в программе :)",
+      "url": "http://developerslife.ru/1575"
+    },
+    {
+      "title": "Про исключения в программировании",
+      "url": "https://ru.wikipedia.org/wiki/Обработка_исключений"
+    },
+    {
+      "title": "Наследники StandartError в руби",
+      "url": "https://gist.github.com/danielfone/5654600"
+    }
+  ],
+  "materials": [
+    {
+      "title": "send_mail.rb с обработкой исключений",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/errors-exceptions/files/send_mail.rb"
+    }
+  ]
+}

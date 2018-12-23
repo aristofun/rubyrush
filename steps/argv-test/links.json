@@ -1,0 +1,34 @@
+{
+  "help": [
+    {
+      "title": "Тест на логическое мышление",
+      "url": "http://syntone.ru/psytesty/test-logicheskogo-myshleniya/"
+    },
+    {
+      "title": "Тонкости работы с командной строкой Windows",
+      "url": "http://habrahabr.ru/post/218759/"
+    },
+    {
+      "title": "Подробнее о if-elsif-else",
+      "url": "http://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Control_Structures"
+    },
+    {
+      "title": "Аргументы из командной строки в Ruby",
+      "url": "http://ruby.about.com/od/rubyfeatures/a/argv.htm"
+    },
+    {
+      "title": "Тест на ревнивость",
+      "url": "http://www.syntone-spb.ru/library/article_syntone/content/4786.html"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Работа с аргументами запуска",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/argv-test/files/arguments.rb"
+    },
+    {
+      "title": "Тест на ревнивость",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/argv-test/files/jealous_test.rb"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "help": [
+    {
+      "title": "Что такое СУБД",
+      "url": "https://ru.wikipedia.org/wiki/Система_управления_базами_данных"
+    },
+    {
+      "title": "Что такое реляционные базы данных",
+      "url": "https://ru.wikipedia.org/wiki/Реляционная_база_данных"
+    },
+    {
+      "title": "Что такое SQLite",
+      "url": "https://ru.wikipedia.org/wiki/SQLite"
+    },
+    {
+      "title": "SQLite manager для Firefox",
+      "url": "https://addons.mozilla.org/ru/firefox/addon/sqlite-manager/"
+    },
+    {
+      "title": "Альтернативный клиент SQLite — 1",
+      "url": "http://sqlitestudio.pl/?act=download"
+    },
+    {
+      "title": "Альтернативный клиент SQLite — 2",
+      "url": "http://sqlitebrowser.org/"
+    },
+    {
+      "title": "Установка SQLite 3 на windows (eng)",
+      "url": "http://stackoverflow.com/questions/15480381/how-do-i-install-sqlite3-for-ruby-on-windows"
+    },
+    {
+      "title": "DevKit для Windows",
+      "url": "http://rubyinstaller.org/downloads/"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Исходники SQLite как на видео",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/sqlite/files/sqlite-autoconf-3081100.zip"
+    }
+  ]
+}

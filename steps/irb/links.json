@@ -1,0 +1,42 @@
+{
+  "help": [
+    {
+      "title": "Слайды о том как работает Ruby (2)",
+      "url": "http://www.slideshare.net/nirusuma/what-lies-beneath-the-beautiful-code"
+    },
+    {
+      "title": "Слайды о том как работает Ruby (1)",
+      "url": "http://www.slideshare.net/burkelibbey/ruby-internals"
+    },
+    {
+      "title": "Ruby Under a Microscope — книга о том, как внутри работает руби",
+      "url": "https://www.nostarch.com/rum"
+    },
+    {
+      "title": "Еще подробнее о блоках кода begin ... end (eng)",
+      "url": "https://blog.newrelic.com/2014/11/13/weird-ruby-begin-end/"
+    },
+    {
+      "title": "Про блоки кода begin ... end (eng)",
+      "url": "http://stackoverflow.com/questions/641743/does-begin-end-while-denote-a-block"
+    },
+    {
+      "title": "Официальная документация irb (eng)",
+      "url": "http://ruby-doc.com/docs/ProgrammingRuby/html/irb.html"
+    },
+    {
+      "title": "Interactive Ruby Shell (вики)",
+      "url": "https://ru.wikipedia.org/wiki/Interactive_Ruby_Shell"
+    },
+    {
+      "title": "Коротко о возможностях IRB",
+      "url": "http://habrahabr.ru/sandbox/35147/"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Первая версия «Палиндрома»",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/irb/files/palindrom.rb"
+    }
+  ]
+}

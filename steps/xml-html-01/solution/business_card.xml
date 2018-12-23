@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<business_card>
+  <first_name>Иван</first_name>
+  <second_name>Андреевич</second_name>
+  <last_name>Попов</last_name>
+  <phone>+7 999 100-30-20</phone>
+  <email>ivan.popov@mail.ru</email>
+  <skills>Начинающий программист на Ruby</skills>
+</business_card>

@@ -1,0 +1,34 @@
+{
+  "help": [
+    {
+      "title": "Становление программиста :)",
+      "url": "http://developerslife.ru/9639"
+    },
+    {
+      "title": "Как работает require",
+      "url": "http://ruby-doc.org/core-2.3.0/Kernel.html#method-i-require"
+    },
+    {
+      "title": "Еще раз про кодировки (2) (eng)",
+      "url": "http://www.w3.org/International/questions/qa-what-is-encoding.ru.php"
+    },
+    {
+      "title": "Еще раз про кодировки (1)",
+      "url": "http://www.olunka.ru/chto-takoe-kodirovka-kakie-byvayut-kodirovki/"
+    },
+    {
+      "title": "Еще раз про кодировки (3)",
+      "url": "http://saitsewanatalia.blogspot.com/2013/01/blog-post.html"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Файл с методами «Виселицы», v.1",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/viselitsa-v1/files/viselitsa_methods.rb"
+    },
+    {
+      "title": "Основной файл «Виселицы», v.1",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/viselitsa-v1/files/viselitsa.rb"
+    }
+  ]
+}

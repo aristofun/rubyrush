@@ -1,0 +1,38 @@
+{
+  "help": [
+    {
+      "title": "Хорошее руководство по Git",
+      "url": "https://git-scm.com/book/ru/v1/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"
+    },
+    {
+      "title": "Работа с Git для начинающих",
+      "url": "http://blog.nsws.ru/rabota-s-git-dlya-nachinayushhix.html"
+    },
+    {
+      "title": "Шпаргалка по Git для начинающих",
+      "url": "http://habrahabr.ru/post/123111/"
+    },
+    {
+      "title": "Подробно о работе с Git на Linux и не только",
+      "url": "http://all-ht.ru/inf/prog/git_001.html"
+    },
+    {
+      "title": "Краткое введение в Git с картинками",
+      "url": "http://rgblog.ru/page/git-dlja-chajnika-komandy-kotorye-pomogut-nachat-rabotu"
+    },
+    {
+      "title": "Интерактивное обучение git",
+      "url": "http://pcottle.github.io/learnGitBranching"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Программа «Кости», первая версия",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/vcs-git/files/roll_a_die.rb"
+    },
+    {
+      "title": "Программа «Кости», вторая версия",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/vcs-git/files/roll_some_dice.rb"
+    }
+  ]
+}

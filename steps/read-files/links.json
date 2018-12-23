@@ -1,0 +1,34 @@
+{
+  "help": [
+    {
+      "title": "Когда ты легко плаваешь в потоке современных технологий :)",
+      "url": "http://developerslife.ru/9580"
+    },
+    {
+      "title": "Работа с файлами в Ruby (2)",
+      "url": "https://ru.wikibooks.org/wiki/Ruby/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D1%81_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8"
+    },
+    {
+      "title": "Работа с файлами в Ruby (1)",
+      "url": "http://www.techotopia.com/index.php/Working_with_Files_in_Ruby"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Архив со всеми программами урока",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/read-files/files/files_read.zip"
+    },
+    {
+      "title": "Афоризмы (положить в подпапку /data/)",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/read-files/files/aphorizmus.txt"
+    },
+    {
+      "title": "Программа, читающая фай построчно",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/read-files/files/read_lines.rb"
+    },
+    {
+      "title": "Программа, открывающая файл афоризмов",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/read-files/files/open_file.rb"
+    }
+  ]
+}

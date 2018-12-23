@@ -1,0 +1,46 @@
+{
+  "help": [
+    {
+      "title": "Онлайн песочница для регулярок",
+      "url": "https://regex101.com/"
+    },
+    {
+      "title": "Памятка по регуляркам",
+      "url": "https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/"
+    },
+    {
+      "title": "Примеры регулярок на руби",
+      "url": "https://www.ralfebert.de/snippets/ruby-rails/regex_cheat_sheet/"
+    },
+    {
+      "title": "Хороший читшит по регуляркам для разных языков",
+      "url": "http://www.rexegg.com/regex-quickstart.html"
+    },
+    {
+      "title": "Rubular — онлайн песочница, заточенная под Ruby",
+      "url": "http://rubular.com/"
+    },
+    {
+      "title": "Как исправить проблему с SSL сертификатами в руби программах на Windows",
+      "url": "https://gist.github.com/fnichol/867550#the-manual-way-boring"
+    },
+    {
+      "title": "Объяснение регулярок (eng)",
+      "url": "http://www.computerhope.com/jargon/r/regex.htm"
+    },
+    {
+      "title": "Туториал по регуляркам (eng)",
+      "url": "https://regexcrossword.com/"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Основной игровой скрипт",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/regexp/files/game.rb"
+    },
+    {
+      "title": "Файл с методами игры",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/regexp/files/methods.rb"
+    }
+  ]
+}

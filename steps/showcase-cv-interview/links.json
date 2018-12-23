@@ -1,0 +1,58 @@
+{
+  "help": [
+    {
+      "title": "Логические задачки с собеседований",
+      "url": "http://habrahabr.ru/post/230881/"
+    },
+    {
+      "title": "Хорошие вопросы работодателю на собеседовании (eng)",
+      "url": "http://www.inc.com/jeff-haden/5-questions-great-job-candidates-ask-interviewers.html"
+    },
+    {
+      "title": "Онлайн-курс об алгоритмах, который вам стоит пройти",
+      "url": "https://www.coursera.org/course/algo"
+    },
+    {
+      "title": "Пример карьерного пути Java программиста",
+      "url": "https://docs.google.com/document/d/1zkGzlcSIVC4uIk7B5zQGL4kTTK8btIzP-0wTEpCbrRE/edit"
+    },
+    {
+      "title": "Оформление текста MarkdDown на Github",
+      "url": "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
+    },
+    {
+      "title": "Другой онлайн-курс об алгоритмах, который вам тоже стоит пройти",
+      "url": "https://www.coursera.org/course/algs4partI"
+    },
+    {
+      "title": "Легендарная книга об остроумных собеседованиях",
+      "url": "http://www.litres.ru/uilyam-paundstoun/nayti-umnogo-kak-proverit-logicheskoe-myshlenie-i-tvorcheskie-sposobnosti-kandidata-2/?lfrom=14517722"
+    },
+    {
+      "title": "Хорошая книга об алгоритмах для новичков",
+      "url": "http://www.ozon.ru/context/detail/id/24903185/?partner=azbuker"
+    },
+    {
+      "title": "Еще одна неплохая книга об алгоритмах",
+      "url": "http://www.ozon.ru/context/detail/id/8241475/?partner=azbuker"
+    },
+    {
+      "title": "Лучшие книги Мартина Гарднера о занимательной математике",
+      "url": "https://cloud.mail.ru/public/8fjm/PE8mBZMCz"
+    },
+    {
+      "title": "Отличные книги другого известного автора с остроумными логическими задачками",
+      "url": "https://cloud.mail.ru/public/7QPN/evo8rHPoS"
+    },
+    {
+      "title": "Хорошая книга о математических парадоксах и взгляде на мир",
+      "url": "https://cloud.mail.ru/public/bSBb/7mvdTEXDF"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Программы, достойные портфолио",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/showcase-cv-interview/files/good_progs_list.txt"
+    }
+  ]
+}

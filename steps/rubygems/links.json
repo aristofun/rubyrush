@@ -1,0 +1,38 @@
+{
+  "help": [
+    {
+      "title": "Решение проблемы с SSL на Windows - 1",
+      "url": "http://stackoverflow.com/questions/5720484/how-to-solve-certificate-verify-failed-on-windows"
+    },
+    {
+      "title": "Решение проблемы с SSL на Windows - 2",
+      "url": "https://gist.github.com/fnichol/867550#the-manual-way-boring"
+    },
+    {
+      "title": "База популярных Ruby–библиотек с описаниями",
+      "url": "https://www.ruby-toolbox.com/"
+    },
+    {
+      "title": "О библиотеках в Ruby, Gems (2)",
+      "url": "https://ru.wikipedia.org/wiki/RubyGems"
+    },
+    {
+      "title": "О библиотеках в Ruby, Gems (1)",
+      "url": "http://nashbridges.me/gem-for-end-user"
+    },
+    {
+      "title": "Как не светить пароль",
+      "url": "http://ruby-doc.org/stdlib-2.3.0/libdoc/io/console/rdoc/IO.html#method-i-noecho"
+    },
+    {
+      "title": "Библиотека Pony",
+      "url": "https://github.com/benprew/pony"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Программа отправки почты",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/rubygems/files/send_mail.rb"
+    }
+  ]
+}

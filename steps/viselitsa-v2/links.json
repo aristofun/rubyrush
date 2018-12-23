@@ -1,0 +1,18 @@
+{
+  "help": [
+    {
+      "title": "Грэди Буча начали читать? Пора начать ;)",
+      "url": "http://www.helloworld.ru/texts/comp/other/oop/ch01.htm"
+    },
+    {
+      "title": "Про объектное программирование на википедии",
+      "url": "https://ru.wikipedia.org/wiki/Объектно-ориентированное_программирование"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Виселица, версия 2",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/viselitsa-v2/files/"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "help": [
+    {
+      "title": "Что такое JSON",
+      "url": "https://ru.wikipedia.org/wiki/JSON"
+    },
+    {
+      "title": "Чем JSON отличается от XML",
+      "url": "http://habrahabr.ru/post/31225/"
+    },
+    {
+      "title": "Документация на класс JSON в Ruby",
+      "url": "http://ruby-doc.org/stdlib-2.0.0/libdoc/json/rdoc/JSON.html"
+    },
+    {
+      "title": "Введение в JSON",
+      "url": "http://www.json.org/json-ru.html"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Программа «Гороскоп»",
+      "url": "https://github.com/aristofun/rubyrush-path/tree/master/steps/json/files/astro_sign/"
+    },
+    {
+      "title": "Программа «Выбор цвета»",
+      "url": "https://github.com/aristofun/rubyrush-path/tree/master/steps/json/files/colors/"
+    }
+  ]
+}

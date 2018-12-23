@@ -1,0 +1,9 @@
+.bundle
+.cache
+.DS_Store
+.sass-cache
+build/
+.byebug_history
+steps/codestyle-*
+steps/ruby-way*
+steps/ruby-oop*

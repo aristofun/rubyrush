@@ -1,0 +1,50 @@
+{
+  "help": [
+    {
+      "title": "Чем отличается оператор and и \u0026\u0026 (2)",
+      "url": "http://devblog.avdi.org/2010/08/02/using-and-and-or-in-ruby/"
+    },
+    {
+      "title": "Чем отличается оператор and и \u0026\u0026 (1)",
+      "url": "http://stackoverflow.com/questions/1426826/difference-between-and-and-in-ruby"
+    },
+    {
+      "title": "Как правильно обращаться с переменными в Руби",
+      "url": "http://ru.wikibooks.org/wiki/Ruby/%CF%E5%F0%E5%EC%E5%ED%ED%FB%E5"
+    },
+    {
+      "title": "Подробнее об операторе IF - ELSE",
+      "url": "http://www.tutorialspoint.com/ruby/ruby_if_else.htm"
+    },
+    {
+      "title": "Строка в Ruby и ее свойства",
+      "url": "http://ru.wikibooks.org/wiki/Ruby/%D1%EF%F0%E0%E2%EE%F7%ED%E8%EA/String"
+    },
+    {
+      "title": "Простейшие операции в Ruby (english)",
+      "url": "http://www.tutorialspoint.com/ruby/ruby_operators.htm"
+    },
+    {
+      "title": "Про переменные, присвоения значения (english)",
+      "url": "http://www.tutorialspoint.com/ruby/ruby_variables.htm"
+    },
+    {
+      "title": "Про логические типы, сравнения и проверки в Ruby (english)",
+      "url": "http://www.codecademy.com/glossary/ruby/booleans"
+    },
+    {
+      "title": "Про логические типы данных",
+      "url": "https://ru.wikipedia.org/wiki/%CB%EE%E3%E8%F7%E5%F1%EA%E8%E9_%F2%E8%EF"
+    }
+  ],
+  "materials": [
+    {
+      "title": "Работа с переменными",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/if-variables/files/variables.rb"
+    },
+    {
+      "title": "Вывод свойств объекта",
+      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/if-variables/files/objects.rb"
+    }
+  ]
+}
