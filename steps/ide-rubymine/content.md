@@ -14,13 +14,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/MJhigoNeRkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:42","comment":"Что такое IDE и почему Rubymine"},{"begin":"1:58","comment":"Признание PHP программиста"},{"begin":"2:35","comment":"Скачиваем и ставим RubyMine"},{"begin":"5:04","comment":"Первый проект в RubyMine (игра «монетка»)"},{"begin":"7:18","comment":"Знакомство с консолью RubyMine"},{"begin":"9:30","comment":"Знакомство с Терминалом RubyMine"},{"begin":"10:35","comment":"О важности удобной настройки IDE под себя"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:42","comment":"Что такое IDE и почему Rubymine"},{"begin":"1:58","comment":"Признание PHP программиста"},{"begin":"2:35","comment":"Скачиваем и ставим RubyMine"},{"begin":"5:04","comment":"Первый проект в RubyMine (игра «монетка»)"},{"begin":"7:18","comment":"Знакомство с консолью RubyMine"},{"begin":"9:30","comment":"Знакомство с Терминалом RubyMine"},{"begin":"10:35","comment":"О важности удобной настройки IDE под себя"}]
 </script>
 </div>
 
@@ -28,7 +28,7 @@ video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/QxgMgw1K30U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:05","comment":"Настройка RubyMine под себя"},{"begin":"2:23","comment":"Превращаем «Виселицу» из базового блока в проект RubyMine"},{"begin":"5:36","comment":"Окончательно разбираемся с кодировками"},{"begin":"13:25","comment":"Подводим итоги урока"}]
+videoPlan["video-1"] = [{"begin":"0:05","comment":"Настройка RubyMine под себя"},{"begin":"2:23","comment":"Превращаем «Виселицу» из базового блока в проект RubyMine"},{"begin":"5:36","comment":"Окончательно разбираемся с кодировками"},{"begin":"13:25","comment":"Подводим итоги урока"}]
 </script>
 </div>
 
@@ -36,7 +36,7 @@ video_plan["video-1"] = [{"begin":"0:05","comment":"Настройка RubyMine 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-2">
 <iframe src="https://www.youtube.com/embed/73Eki5zSotg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-2"] = [{"begin":"0:02","comment":"Приветствие"},{"begin":"0:14","comment":"Скачиваем и стави RubyMine в Ubuntu"},{"begin":"1:47","comment":"Установка и использование RVM"},{"begin":"4:11","comment":"Настраиваем RubyMine, rails проект"},{"begin":"8:21","comment":"VirtualBox snapshots (снимки)"},{"begin":"9:18","comment":"Как скачать готовый образ Ubuntu"},{"begin":"10:40","comment":"Всем чмоки :)"}]
+videoPlan["video-2"] = [{"begin":"0:02","comment":"Приветствие"},{"begin":"0:14","comment":"Скачиваем и стави RubyMine в Ubuntu"},{"begin":"1:47","comment":"Установка и использование RVM"},{"begin":"4:11","comment":"Настраиваем RubyMine, rails проект"},{"begin":"8:21","comment":"VirtualBox snapshots (снимки)"},{"begin":"9:18","comment":"Как скачать готовый образ Ubuntu"},{"begin":"10:40","comment":"Всем чмоки :)"}]
 </script>
 </div>
 

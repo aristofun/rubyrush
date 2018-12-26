@@ -13,7 +13,7 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 
@@ -21,7 +21,7 @@ var video_plan = {}
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/UPRPYh3TEDQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:10","comment":"Зачем нужен вводный урок"},{"begin":"0:25","comment":"Из чего состоят уроки курса"},{"begin":"3:00","comment":"Как решать проблемы, раздел «Вопросы и Ответы»"},{"begin":"4:27","comment":"Часто задаваемые вопросы"}]
+videoPlan["video-0"] = [{"begin":"0:10","comment":"Зачем нужен вводный урок"},{"begin":"0:25","comment":"Из чего состоят уроки курса"},{"begin":"3:00","comment":"Как решать проблемы, раздел «Вопросы и Ответы»"},{"begin":"4:27","comment":"Часто задаваемые вопросы"}]
 </script>
 </div>
 
@@ -30,7 +30,7 @@ video_plan["video-0"] = [{"begin":"0:10","comment":"Зачем нужен вво
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/SyP8UbArpWs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = null
+videoPlan["video-1"] = null
 </script>
 </div>
 

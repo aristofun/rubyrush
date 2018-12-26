@@ -13,13 +13,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/LxaEnAq3kLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:11","comment":"Приветствие и план урока"},{"begin":"0:50","comment":"Какие бывают ошибки"},{"begin":"3:52","comment":"Программа отправки почты: Обработка исключений в Ruby"},{"begin":"6:55","comment":"Программа отправки почты: Ловим конкретные ошибки"},{"begin":"11:30","comment":"Что будет в следующей части видео"}]
+videoPlan["video-0"] = [{"begin":"0:11","comment":"Приветствие и план урока"},{"begin":"0:50","comment":"Какие бывают ошибки"},{"begin":"3:52","comment":"Программа отправки почты: Обработка исключений в Ruby"},{"begin":"6:55","comment":"Программа отправки почты: Ловим конкретные ошибки"},{"begin":"11:30","comment":"Что будет в следующей части видео"}]
 </script>
 </div>
 
@@ -27,7 +27,7 @@ video_plan["video-0"] = [{"begin":"0:11","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/gZwWJUeWEzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:06","comment":"Программа отправки почты: Ловим оставшиеся типы ошибок"},{"begin":"4:33","comment":"Какие ошибки обрабатывать и как программа должна вести себя при ошибках"},{"begin":"10:00","comment":"Итоги урока и что будет на последнем уроке"}]
+videoPlan["video-1"] = [{"begin":"0:06","comment":"Программа отправки почты: Ловим оставшиеся типы ошибок"},{"begin":"4:33","comment":"Какие ошибки обрабатывать и как программа должна вести себя при ошибках"},{"begin":"10:00","comment":"Итоги урока и что будет на последнем уроке"}]
 </script>
 </div>
 

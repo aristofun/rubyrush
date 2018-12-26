@@ -12,13 +12,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/g1l25-k9XRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:31","comment":"Идея распределенного репозитория"},{"begin":"1:53","comment":"Знакомство с GitHub"},{"begin":"3:36","comment":"Привязываем удаленный репозиторий github.com к локальному"},{"begin":"5:03","comment":"Что такое SSH"},{"begin":"6:00","comment":"Создаем ключи и настраиваем SSH"},{"begin":"8:59","comment":"Публичные и приватные репозитории"},{"begin":"9:32","comment":"Создаем свой первый репозиторий на Github.com (программа «Pick a card»)"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:31","comment":"Идея распределенного репозитория"},{"begin":"1:53","comment":"Знакомство с GitHub"},{"begin":"3:36","comment":"Привязываем удаленный репозиторий github.com к локальному"},{"begin":"5:03","comment":"Что такое SSH"},{"begin":"6:00","comment":"Создаем ключи и настраиваем SSH"},{"begin":"8:59","comment":"Публичные и приватные репозитории"},{"begin":"9:32","comment":"Создаем свой первый репозиторий на Github.com (программа «Pick a card»)"}]
 </script>
 </div>
 
@@ -26,7 +26,7 @@ video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/RRNIuZJULhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:04","comment":"Продолжаем свой первый репозиторий на Github.com (программа «Pick a card»)"},{"begin":"2:55","comment":"Команды “git push” и “git pull”, синхронизируем репозитории"},{"begin":"7:25","comment":"Итоги урока"}]
+videoPlan["video-1"] = [{"begin":"0:04","comment":"Продолжаем свой первый репозиторий на Github.com (программа «Pick a card»)"},{"begin":"2:55","comment":"Команды “git push” и “git pull”, синхронизируем репозитории"},{"begin":"7:25","comment":"Итоги урока"}]
 </script>
 </div>
 

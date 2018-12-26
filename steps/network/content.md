@@ -14,13 +14,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/HZDJiaSuJ_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:22","comment":"Что такое протокол, примеры протоколов"},{"begin":"4:54","comment":"Как устроен протокол HTTP"},{"begin":"7:30","comment":"Залезаем в HTTP с помощью Firefox"},{"begin":"9:36","comment":"Программа «Прогноз погоды»: постановка задачи"},{"begin":"9:56","comment":"Программа «Прогноз погоды»: изучаем XML, пишем код"},{"begin":"18:21","comment":"Итоги урока"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:22","comment":"Что такое протокол, примеры протоколов"},{"begin":"4:54","comment":"Как устроен протокол HTTP"},{"begin":"7:30","comment":"Залезаем в HTTP с помощью Firefox"},{"begin":"9:36","comment":"Программа «Прогноз погоды»: постановка задачи"},{"begin":"9:56","comment":"Программа «Прогноз погоды»: изучаем XML, пишем код"},{"begin":"18:21","comment":"Итоги урока"}]
 </script>
 </div>
 

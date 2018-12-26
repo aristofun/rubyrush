@@ -10,13 +10,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/XgfzTOUAyPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:32","comment":"Чтение и запись в XML: зачем и как"},{"begin":"1:41","comment":"Программа «Личные финансы»: запись расходов"},{"begin":"10:07","comment":"Ошибки в XML"},{"begin":"10:52","comment":"Отображение ошибок в RubyMine"},{"begin":"12:15","comment":"Исключения в XML парсере"},{"begin":"15:22","comment":"Итоги урока "}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:32","comment":"Чтение и запись в XML: зачем и как"},{"begin":"1:41","comment":"Программа «Личные финансы»: запись расходов"},{"begin":"10:07","comment":"Ошибки в XML"},{"begin":"10:52","comment":"Отображение ошибок в RubyMine"},{"begin":"12:15","comment":"Исключения в XML парсере"},{"begin":"15:22","comment":"Итоги урока "}]
 </script>
 </div>
 

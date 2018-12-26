@@ -10,13 +10,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/iImUu955FdI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"0:28","comment":"Личный дневник: Постановка задачи"},{"begin":"2:28","comment":"Личный дневник: Ввод заметки"},{"begin":"3:48","comment":"Работа со временем в Ruby, класс “Time”"},{"begin":"8:41","comment":"Пишем в файлы, “file.print”, “file.puts”"},{"begin":"15:04","comment":"Личный дневник: Запускаем программу"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"0:28","comment":"Личный дневник: Постановка задачи"},{"begin":"2:28","comment":"Личный дневник: Ввод заметки"},{"begin":"3:48","comment":"Работа со временем в Ruby, класс “Time”"},{"begin":"8:41","comment":"Пишем в файлы, “file.print”, “file.puts”"},{"begin":"15:04","comment":"Личный дневник: Запускаем программу"}]
 </script>
 </div>
 

@@ -20,13 +20,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/Xe0DrDiuLC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"1:12","comment":"Виселица v. 1: Проектируем игру"},{"begin":"2:40","comment":"Учимся разбивать программу на несколько файлов, метод “require”"},{"begin":"4:20","comment":"Виселица v. 1: Пишем основную логику программы, придумывая методы, которые нам понадобятся"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"1:12","comment":"Виселица v. 1: Проектируем игру"},{"begin":"2:40","comment":"Учимся разбивать программу на несколько файлов, метод “require”"},{"begin":"4:20","comment":"Виселица v. 1: Пишем основную логику программы, придумывая методы, которые нам понадобятся"}]
 </script>
 </div>
 
@@ -34,7 +34,7 @@ video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/3mb_pD8f2Js" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:09","comment":"Виселица v. 1: метод “get_letters”"},{"begin":"3:25","comment":"Виселица v. 1: метод “get_user_input”"},{"begin":"4:50","comment":"Виселица v. 1: метод “check_results”"}]
+videoPlan["video-1"] = [{"begin":"0:09","comment":"Виселица v. 1: метод “get_letters”"},{"begin":"3:25","comment":"Виселица v. 1: метод “get_user_input”"},{"begin":"4:50","comment":"Виселица v. 1: метод “check_results”"}]
 </script>
 </div>
 
@@ -42,7 +42,7 @@ video_plan["video-1"] = [{"begin":"0:09","comment":"Виселица v. 1: ме�
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-2">
 <iframe src="https://www.youtube.com/embed/0NnO7awYgrw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-2"] = [{"begin":"0:10","comment":"Виселица v. 1: метод “print_status”"},{"begin":"11:10","comment":"Запускаем программу «Виселица» в первый раз"},{"begin":"11:43","comment":"Виселица v. 1: метод “cls”"},{"begin":"12:55","comment":"Играем в Виселицу!"},{"begin":"14:04","comment":"Итоги урока"}]
+videoPlan["video-2"] = [{"begin":"0:10","comment":"Виселица v. 1: метод “print_status”"},{"begin":"11:10","comment":"Запускаем программу «Виселица» в первый раз"},{"begin":"11:43","comment":"Виселица v. 1: метод “cls”"},{"begin":"12:55","comment":"Играем в Виселицу!"},{"begin":"14:04","comment":"Итоги урока"}]
 </script>
 </div>
 

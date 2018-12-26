@@ -15,13 +15,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/dojzxhJPfZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:08","comment":"Приветствие и план урока"},{"begin":"0:35","comment":"Параметры программы в ruby, массив ARGV"},{"begin":"2:24","comment":"Проблема с кодировкой параметров программы"},{"begin":"4:01","comment":"Тест на ревнивость: Ставим задачу, пишем массивы вопросов и ответов"}]
+videoPlan["video-0"] = [{"begin":"0:08","comment":"Приветствие и план урока"},{"begin":"0:35","comment":"Параметры программы в ruby, массив ARGV"},{"begin":"2:24","comment":"Проблема с кодировкой параметров программы"},{"begin":"4:01","comment":"Тест на ревнивость: Ставим задачу, пишем массивы вопросов и ответов"}]
 </script>
 </div>
 
@@ -29,7 +29,7 @@ video_plan["video-0"] = [{"begin":"0:08","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/ZPDyOXAuYAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:08","comment":"Тест на ревнивость: Цикл по всем вопросам"},{"begin":"5:18","comment":"Тест на ревнивость: Выводим пользователю результат теста"},{"begin":"8:08","comment":"Тест на ревнивость: Запускаем программу!"},{"begin":"11:37","comment":"Итоги урока"}]
+videoPlan["video-1"] = [{"begin":"0:08","comment":"Тест на ревнивость: Цикл по всем вопросам"},{"begin":"5:18","comment":"Тест на ревнивость: Выводим пользователю результат теста"},{"begin":"8:08","comment":"Тест на ревнивость: Запускаем программу!"},{"begin":"11:37","comment":"Итоги урока"}]
 </script>
 </div>
 

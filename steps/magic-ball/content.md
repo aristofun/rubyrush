@@ -9,13 +9,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/Y22vv3fG59w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:10","comment":"Приветствие и план урока"},{"begin":"0:53","comment":"Предупреждение! Не пытайтесь всё понять сразу!"},{"begin":"1:48","comment":"Самое важное правило программиста"},{"begin":"2:50","comment":"Пишем программу «Волшебный шар»"},{"begin":"7:13","comment":"Культура программирования: комментарии"},{"begin":"8:52","comment":"Культура программирования: разметка кода"},{"begin":"10:06","comment":"Работа с ошибками в ваших программах"},{"begin":"15:34","comment":"Итоги урока"}]
+videoPlan["video-0"] = [{"begin":"0:10","comment":"Приветствие и план урока"},{"begin":"0:53","comment":"Предупреждение! Не пытайтесь всё понять сразу!"},{"begin":"1:48","comment":"Самое важное правило программиста"},{"begin":"2:50","comment":"Пишем программу «Волшебный шар»"},{"begin":"7:13","comment":"Культура программирования: комментарии"},{"begin":"8:52","comment":"Культура программирования: разметка кода"},{"begin":"10:06","comment":"Работа с ошибками в ваших программах"},{"begin":"15:34","comment":"Итоги урока"}]
 </script>
 </div>
 

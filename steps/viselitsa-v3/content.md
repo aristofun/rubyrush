@@ -14,13 +14,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/vQbwMxIp3TI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"0:46","comment":"Виселица v. 3: Берём слова из словарика, класс “WordReader”"},{"begin":"6:00","comment":"Виселика v. 3: Выносим псевдографику в отдельные файлы"},{"begin":"13:44","comment":"Итоги урока"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"0:46","comment":"Виселица v. 3: Берём слова из словарика, класс “WordReader”"},{"begin":"6:00","comment":"Виселика v. 3: Выносим псевдографику в отдельные файлы"},{"begin":"13:44","comment":"Итоги урока"}]
 </script>
 </div>
 

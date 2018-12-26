@@ -13,13 +13,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/2SeOx4XshuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"0:54","comment":"Что такое база данных и зачем она нужна"},{"begin":"3:58","comment":"Реляционные базы данных"},{"begin":"5:46","comment":"Как устроена SQL база данных"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"0:54","comment":"Что такое база данных и зачем она нужна"},{"begin":"3:58","comment":"Реляционные базы данных"},{"begin":"5:46","comment":"Как устроена SQL база данных"}]
 </script>
 </div>
 
@@ -27,7 +27,7 @@ video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/c6_1HtydN08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:04","comment":"Установка SQLite на Windows "},{"begin":"0:29","comment":"Установка DevKit на Windows "},{"begin":"2:31","comment":"Установка SQLite на Windows "},{"begin":"5:26","comment":"Установка SQLite Manager для Firefox "},{"begin":"6:23","comment":"Основы языка SQL"},{"begin":"8:11","comment":"Создаем свою первую базу SQLite"},{"begin":"13:17","comment":"Итоги урока "}]
+videoPlan["video-1"] = [{"begin":"0:04","comment":"Установка SQLite на Windows "},{"begin":"0:29","comment":"Установка DevKit на Windows "},{"begin":"2:31","comment":"Установка SQLite на Windows "},{"begin":"5:26","comment":"Установка SQLite Manager для Firefox "},{"begin":"6:23","comment":"Основы языка SQL"},{"begin":"8:11","comment":"Создаем свою первую базу SQLite"},{"begin":"13:17","comment":"Итоги урока "}]
 </script>
 </div>
 

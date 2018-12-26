@@ -5,13 +5,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/h0_uKss31Z4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"1:53","comment":"Приветствие и план урока"},{"begin":"3:08","comment":"Как устроена любая программа?"},{"begin":"5:10","comment":"Установка текстового редактора Sublime"},{"begin":"10:25","comment":"Устанавливаем Ruby (v. 2.*.*)"},{"begin":"12:16","comment":"Что такое консоль (командная строка)"},{"begin":"13:57","comment":"Запускаем первую программу!"},{"begin":"15:20","comment":"Итоги урока"}]
+videoPlan["video-0"] = [{"begin":"1:53","comment":"Приветствие и план урока"},{"begin":"3:08","comment":"Как устроена любая программа?"},{"begin":"5:10","comment":"Установка текстового редактора Sublime"},{"begin":"10:25","comment":"Устанавливаем Ruby (v. 2.*.*)"},{"begin":"12:16","comment":"Что такое консоль (командная строка)"},{"begin":"13:57","comment":"Запускаем первую программу!"},{"begin":"15:20","comment":"Итоги урока"}]
 </script>
 </div>
 
@@ -19,7 +19,7 @@ video_plan["video-0"] = [{"begin":"1:53","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/cfvh5QBj4RM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"2:10","comment":"Приветствие и план урока"},{"begin":"3:28","comment":"Как устроена любая программа?"},{"begin":"5:12","comment":"В чём отличие для пользователей Mac OS X"},{"begin":"6:20","comment":"Рабочее место: Установка Sublime"},{"begin":"8:35","comment":"Рабочее место: создаём рабочую папку"},{"begin":"11:12","comment":"Пишем первую программу «Привет, мир!»"},{"begin":"12:50","comment":"Рабочее место: программа Terminal"},{"begin":"14:58","comment":"Запускаем нашу первую программу"},{"begin":"19:42","comment":"Итоги урока"}]
+videoPlan["video-1"] = [{"begin":"2:10","comment":"Приветствие и план урока"},{"begin":"3:28","comment":"Как устроена любая программа?"},{"begin":"5:12","comment":"В чём отличие для пользователей Mac OS X"},{"begin":"6:20","comment":"Рабочее место: Установка Sublime"},{"begin":"8:35","comment":"Рабочее место: создаём рабочую папку"},{"begin":"11:12","comment":"Пишем первую программу «Привет, мир!»"},{"begin":"12:50","comment":"Рабочее место: программа Terminal"},{"begin":"14:58","comment":"Запускаем нашу первую программу"},{"begin":"19:42","comment":"Итоги урока"}]
 </script>
 </div>
 
@@ -27,7 +27,7 @@ video_plan["video-1"] = [{"begin":"2:10","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-2">
 <iframe src="https://www.youtube.com/embed/w7gB8mkX38g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-2"] = [{"begin":"1:26","comment":"Установка RVM"},{"begin":"3:40","comment":"Установка свежего Ruby"},{"begin":"4:59","comment":"Что делать, если ошибки?"}]
+videoPlan["video-2"] = [{"begin":"1:26","comment":"Установка RVM"},{"begin":"3:40","comment":"Установка свежего Ruby"},{"begin":"4:59","comment":"Что делать, если ошибки?"}]
 </script>
 </div>
 

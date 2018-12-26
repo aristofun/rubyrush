@@ -10,13 +10,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/5iMxDy2isWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:37","comment":"Как работает SQLite база"},{"begin":"2:00","comment":"Проектируем базу для «Блокнота»"},{"begin":"4:54","comment":"Установка гема sqlite3"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:37","comment":"Как работает SQLite база"},{"begin":"2:00","comment":"Проектируем базу для «Блокнота»"},{"begin":"4:54","comment":"Установка гема sqlite3"}]
 </script>
 </div>
 
@@ -24,7 +24,7 @@ video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/VBbO7UKop8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:10","comment":"Пример SQL запроса INSERT"},{"begin":"1:53","comment":"Программа «Блокнот»: сохраняем данные в базу, метод save_to_db"},{"begin":"9:22","comment":"Программа «Блокнот»: метод to_db_hash"},{"begin":"12:09","comment":"Программа «Блокнот»: переписываем скрипт и пробуем сохранить данные в базу"}]
+videoPlan["video-1"] = [{"begin":"0:10","comment":"Пример SQL запроса INSERT"},{"begin":"1:53","comment":"Программа «Блокнот»: сохраняем данные в базу, метод save_to_db"},{"begin":"9:22","comment":"Программа «Блокнот»: метод to_db_hash"},{"begin":"12:09","comment":"Программа «Блокнот»: переписываем скрипт и пробуем сохранить данные в базу"}]
 </script>
 </div>
 
@@ -32,7 +32,7 @@ video_plan["video-1"] = [{"begin":"0:10","comment":"Пример SQL запро�
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-2">
 <iframe src="https://www.youtube.com/embed/yaBrreVfVFo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-2"] = [{"begin":"0:04","comment":"Пример SQL запроса SELECT"},{"begin":"2:09","comment":"Программа «Блокнот»: читаем из базы с помощью гема "},{"begin":"4:00","comment":"Обрабатываем опции командной строки с помощью OptionParser"},{"begin":"8:51","comment":"Программа «Блокнот»: реализуем первую часть метода Post.find"}]
+videoPlan["video-2"] = [{"begin":"0:04","comment":"Пример SQL запроса SELECT"},{"begin":"2:09","comment":"Программа «Блокнот»: читаем из базы с помощью гема "},{"begin":"4:00","comment":"Обрабатываем опции командной строки с помощью OptionParser"},{"begin":"8:51","comment":"Программа «Блокнот»: реализуем первую часть метода Post.find"}]
 </script>
 </div>
 
@@ -40,7 +40,7 @@ video_plan["video-2"] = [{"begin":"0:04","comment":"Пример SQL запро�
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-3">
 <iframe src="https://www.youtube.com/embed/IN0iGCoBIv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-3"] = [{"begin":"0:04","comment":"Проверяем работу «Блокнота»: создание новых записей"},{"begin":"1:08","comment":"Программа «Блокнот»: реализуем вторую часть метода Post.find"},{"begin":"7:30","comment":"Запускаем и проверяем работу «Блокнота»"},{"begin":"8:29","comment":"Сохраняем изменения на github"},{"begin":"9:50","comment":"Объяснение работы «Блокнота» на пальцах"},{"begin":"13:35","comment":"Итоги урока "}]
+videoPlan["video-3"] = [{"begin":"0:04","comment":"Проверяем работу «Блокнота»: создание новых записей"},{"begin":"1:08","comment":"Программа «Блокнот»: реализуем вторую часть метода Post.find"},{"begin":"7:30","comment":"Запускаем и проверяем работу «Блокнота»"},{"begin":"8:29","comment":"Сохраняем изменения на github"},{"begin":"9:50","comment":"Объяснение работы «Блокнота» на пальцах"},{"begin":"13:35","comment":"Итоги урока "}]
 </script>
 </div>
 

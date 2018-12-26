@@ -10,13 +10,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/xwUXy8NqyXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:08","comment":"Приветствие и план урока "},{"begin":"0:29","comment":"Идея наследования классов"},{"begin":"6:29","comment":"Программа «Блокнот»: готовим репозиторий"}]
+videoPlan["video-0"] = [{"begin":"0:08","comment":"Приветствие и план урока "},{"begin":"0:29","comment":"Идея наследования классов"},{"begin":"6:29","comment":"Программа «Блокнот»: готовим репозиторий"}]
 </script>
 </div>
 
@@ -24,7 +24,7 @@ video_plan["video-0"] = [{"begin":"0:08","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/A_6ZGkxeJ8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:04","comment":"Программа «Блокнот»: постановка задачи"},{"begin":"0:39","comment":"Программа «Блокнот»: проектируем классы"},{"begin":"4:42","comment":"Программа «Блокнот»: пишем классы"},{"begin":"13:17","comment":"Итоги урока "}]
+videoPlan["video-1"] = [{"begin":"0:04","comment":"Программа «Блокнот»: постановка задачи"},{"begin":"0:39","comment":"Программа «Блокнот»: проектируем классы"},{"begin":"4:42","comment":"Программа «Блокнот»: пишем классы"},{"begin":"13:17","comment":"Итоги урока "}]
 </script>
 </div>
 

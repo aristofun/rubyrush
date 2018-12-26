@@ -14,13 +14,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/_mGPYAKurtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:12","comment":"Приветствие и план урока"},{"begin":"0:40","comment":"Методы: Что это такое?"},{"begin":"2:20","comment":"Методы: Используем методы в Ruby"},{"begin":"4:44","comment":"Методы: Параметры метода"},{"begin":"7:55","comment":"Методы: Возвращаемое значение"},{"begin":"10:05","comment":"Пишем собственные методы"},{"begin":"11:50","comment":"3 правила создания методов"}]
+videoPlan["video-0"] = [{"begin":"0:12","comment":"Приветствие и план урока"},{"begin":"0:40","comment":"Методы: Что это такое?"},{"begin":"2:20","comment":"Методы: Используем методы в Ruby"},{"begin":"4:44","comment":"Методы: Параметры метода"},{"begin":"7:55","comment":"Методы: Возвращаемое значение"},{"begin":"10:05","comment":"Пишем собственные методы"},{"begin":"11:50","comment":"3 правила создания методов"}]
 </script>
 </div>
 
@@ -28,7 +28,7 @@ video_plan["video-0"] = [{"begin":"0:12","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/BJ_0CWstYGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:10","comment":"Склонятор: Постановка задачи"},{"begin":"1:37","comment":"Склонятор: Пишем метод «склонение»"},{"begin":"4:26","comment":"Склонятор: Используем метод для склонения"},{"begin":"8:40","comment":"Использование переменных в методах"},{"begin":"12:22","comment":"Итоги этого важного урока"}]
+videoPlan["video-1"] = [{"begin":"0:10","comment":"Склонятор: Постановка задачи"},{"begin":"1:37","comment":"Склонятор: Пишем метод «склонение»"},{"begin":"4:26","comment":"Склонятор: Используем метод для склонения"},{"begin":"8:40","comment":"Использование переменных в методах"},{"begin":"12:22","comment":"Итоги этого важного урока"}]
 </script>
 </div>
 

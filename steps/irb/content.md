@@ -11,13 +11,13 @@ IRB экономит время, когда нужно написать очен
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/TIgdYjWq8aE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и что такое IRB"},{"begin":"0:40","comment":"Запускаем интерактивный Ruby режим"},{"begin":"0:50","comment":"Принцип работы IRB"},{"begin":"2:00","comment":"1. irb как песочница и справочник"},{"begin":"3:08","comment":"Пишем программу «Палиндром»"},{"begin":"3:54","comment":"Исправляем ошибки в «Палиндроме»"},{"begin":"5:43","comment":"2. irb как калькулятор"},{"begin":"6:45","comment":"Резюме — когда пригодится IRB"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и что такое IRB"},{"begin":"0:40","comment":"Запускаем интерактивный Ruby режим"},{"begin":"0:50","comment":"Принцип работы IRB"},{"begin":"2:00","comment":"1. irb как песочница и справочник"},{"begin":"3:08","comment":"Пишем программу «Палиндром»"},{"begin":"3:54","comment":"Исправляем ошибки в «Палиндроме»"},{"begin":"5:43","comment":"2. irb как калькулятор"},{"begin":"6:45","comment":"Резюме — когда пригодится IRB"}]
 </script>
 </div>
 

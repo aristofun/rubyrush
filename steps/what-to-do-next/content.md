@@ -11,13 +11,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/dxWWjG-17TE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"0:41","comment":"Какой есть выбор"},{"begin":"1:05","comment":"Обзор направлений: Веб-разработка"},{"begin":"2:48","comment":"Обзор направлений: Игры (геймдев)"},{"begin":"5:32","comment":"Обзор направлений: Мобильные приложения"},{"begin":"6:02","comment":"Обзор направлений: Enterprise "},{"begin":"7:04","comment":"Обзор направлений: Настольные приложения"},{"begin":"7:32","comment":"Обзор направлений: Научные задачи"},{"begin":"8:42","comment":"Обзор направлений: Embedded разработка (роботы)"},{"begin":"9:16","comment":"Lifestyle программиста: Фулл-тайм сотрудник"},{"begin":"10:15","comment":"Lifestyle программиста: Фрилансер"},{"begin":"11:16","comment":"Lifestyle программиста: Инди разработчик"},{"begin":"11:51","comment":"Lifestyle программиста: Стартапер"},{"begin":"12:35","comment":"Резюме: с чего лучше начинать новичку"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"0:41","comment":"Какой есть выбор"},{"begin":"1:05","comment":"Обзор направлений: Веб-разработка"},{"begin":"2:48","comment":"Обзор направлений: Игры (геймдев)"},{"begin":"5:32","comment":"Обзор направлений: Мобильные приложения"},{"begin":"6:02","comment":"Обзор направлений: Enterprise "},{"begin":"7:04","comment":"Обзор направлений: Настольные приложения"},{"begin":"7:32","comment":"Обзор направлений: Научные задачи"},{"begin":"8:42","comment":"Обзор направлений: Embedded разработка (роботы)"},{"begin":"9:16","comment":"Lifestyle программиста: Фулл-тайм сотрудник"},{"begin":"10:15","comment":"Lifestyle программиста: Фрилансер"},{"begin":"11:16","comment":"Lifestyle программиста: Инди разработчик"},{"begin":"11:51","comment":"Lifestyle программиста: Стартапер"},{"begin":"12:35","comment":"Резюме: с чего лучше начинать новичку"}]
 </script>
 </div>
 
@@ -25,7 +25,7 @@ video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/91P7vm-4PQ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:21","comment":"История Вадика"},{"begin":"3:34","comment":"История Миши"},{"begin":"6:11","comment":"Как сделать правильный выбор в программировании?"},{"begin":"7:44","comment":"Как изучать что-то новое (обучение и реальные задачи)"},{"begin":"10:43","comment":"Трогательное напутствие :)"}]
+videoPlan["video-1"] = [{"begin":"0:21","comment":"История Вадика"},{"begin":"3:34","comment":"История Миши"},{"begin":"6:11","comment":"Как сделать правильный выбор в программировании?"},{"begin":"7:44","comment":"Как изучать что-то новое (обучение и реальные задачи)"},{"begin":"10:43","comment":"Трогательное напутствие :)"}]
 </script>
 </div>
 

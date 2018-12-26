@@ -11,13 +11,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/giS2eMoveQ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:20","comment":"План урока "},{"begin":"0:34","comment":"Идея и смысл систем контроля версий"},{"begin":"2:06","comment":"Установка Git"},{"begin":"4:22","comment":"Проверяем установку Git в командной строке"},{"begin":"5:21","comment":"Что такое репозиторий"},{"begin":"5:35","comment":"Создаем свой первый Git репозиторий (игра «Кости»)"},{"begin":"7:02","comment":"Команда “git status”"},{"begin":"9:39","comment":"Файл .gitignore"},{"begin":"11:25","comment":"Команда “git add”"},{"begin":"13:24","comment":"Команда “git commit”"}]
+videoPlan["video-0"] = [{"begin":"0:20","comment":"План урока "},{"begin":"0:34","comment":"Идея и смысл систем контроля версий"},{"begin":"2:06","comment":"Установка Git"},{"begin":"4:22","comment":"Проверяем установку Git в командной строке"},{"begin":"5:21","comment":"Что такое репозиторий"},{"begin":"5:35","comment":"Создаем свой первый Git репозиторий (игра «Кости»)"},{"begin":"7:02","comment":"Команда “git status”"},{"begin":"9:39","comment":"Файл .gitignore"},{"begin":"11:25","comment":"Команда “git add”"},{"begin":"13:24","comment":"Команда “git commit”"}]
 </script>
 </div>
 
@@ -25,7 +25,7 @@ video_plan["video-0"] = [{"begin":"0:20","comment":"План урока "},{"beg
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/X5iHeAorPNU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:05","comment":"Cоздаем свой первый комит в Гите"},{"begin":"2:20","comment":"Полезные фишки Git-а, встроенные в RubyMine "},{"begin":"6:59","comment":"Команда “git commit”"},{"begin":"9:31","comment":"Что такое ветки и что такое ветка master в Git-e"},{"begin":"10:22","comment":"Еще немного фишек Git-а и RubyMine "},{"begin":"12:02","comment":"Итоги урока"}]
+videoPlan["video-1"] = [{"begin":"0:05","comment":"Cоздаем свой первый комит в Гите"},{"begin":"2:20","comment":"Полезные фишки Git-а, встроенные в RubyMine "},{"begin":"6:59","comment":"Команда “git commit”"},{"begin":"9:31","comment":"Что такое ветки и что такое ветка master в Git-e"},{"begin":"10:22","comment":"Еще немного фишек Git-а и RubyMine "},{"begin":"12:02","comment":"Итоги урока"}]
 </script>
 </div>
 

@@ -10,13 +10,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/_RvhNoqZI2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:14","comment":"Приветствие и план урока"},{"begin":"0:52","comment":"Что такое объект и что такое класс?"},{"begin":"2:20","comment":"Как и зачем писать свои классы?"},{"begin":"3:05","comment":"Пишем свой класс в Ruby"},{"begin":"5:13","comment":"Используем класс Brigde"},{"begin":"7:54","comment":"Когда и как следует создавать свои классы"},{"begin":"9:59","comment":"Поля класса (class instance variables)"},{"begin":"15:12","comment":"Итоги урока"}]
+videoPlan["video-0"] = [{"begin":"0:14","comment":"Приветствие и план урока"},{"begin":"0:52","comment":"Что такое объект и что такое класс?"},{"begin":"2:20","comment":"Как и зачем писать свои классы?"},{"begin":"3:05","comment":"Пишем свой класс в Ruby"},{"begin":"5:13","comment":"Используем класс Brigde"},{"begin":"7:54","comment":"Когда и как следует создавать свои классы"},{"begin":"9:59","comment":"Поля класса (class instance variables)"},{"begin":"15:12","comment":"Итоги урока"}]
 </script>
 </div>
 

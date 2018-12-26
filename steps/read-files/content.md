@@ -15,13 +15,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/rRD78mQEzcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"0:38","comment":"Как компьютер работает с файлами"},{"begin":"1:28","comment":"Читаем файлы в Ruby: «Афоризм дня»"},{"begin":"3:54","comment":"Метод “File.exist?”"},{"begin":"5:35","comment":"Читаем данные из файла, метод “file.readlines”"},{"begin":"7:42","comment":"Абсолютные и относительные пути в программах"},{"begin":"9:49","comment":"Когда и зачем закрывать файлы?"},{"begin":"12:28","comment":"Итоги урока"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"0:38","comment":"Как компьютер работает с файлами"},{"begin":"1:28","comment":"Читаем файлы в Ruby: «Афоризм дня»"},{"begin":"3:54","comment":"Метод “File.exist?”"},{"begin":"5:35","comment":"Читаем данные из файла, метод “file.readlines”"},{"begin":"7:42","comment":"Абсолютные и относительные пути в программах"},{"begin":"9:49","comment":"Когда и зачем закрывать файлы?"},{"begin":"12:28","comment":"Итоги урока"}]
 </script>
 </div>
 

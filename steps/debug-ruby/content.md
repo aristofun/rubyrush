@@ -15,13 +15,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/YT26qsoEAqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"0:44","comment":"Идея дебагера: как залезть под капот"},{"begin":"3:48","comment":"Дебаг в RubyMine: ставим гемы"},{"begin":"7:49","comment":"Дебаг в RubyMine: пишем «Корни квадратного уравнения»"},{"begin":"8:58","comment":"Дебаг в RubyMine: breakpoint и дебаг-режим"},{"begin":"11:42","comment":"Дебаг в RubyMine: evaluate expression"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"0:44","comment":"Идея дебагера: как залезть под капот"},{"begin":"3:48","comment":"Дебаг в RubyMine: ставим гемы"},{"begin":"7:49","comment":"Дебаг в RubyMine: пишем «Корни квадратного уравнения»"},{"begin":"8:58","comment":"Дебаг в RubyMine: breakpoint и дебаг-режим"},{"begin":"11:42","comment":"Дебаг в RubyMine: evaluate expression"}]
 </script>
 </div>
 
@@ -29,7 +29,7 @@ video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/X5VuEUd_Oe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:04","comment":"Исправляем ошибки в программе «Корни квадратного уравнения»"},{"begin":"3:22","comment":"Рефакторинг в RubyMine"},{"begin":"5:18","comment":"Особенности работы программы в дебаг режиме"},{"begin":"6:35","comment":"Когда нужно пользоваться дебагером"},{"begin":"8:04","comment":"Итоги урока"}]
+videoPlan["video-1"] = [{"begin":"0:04","comment":"Исправляем ошибки в программе «Корни квадратного уравнения»"},{"begin":"3:22","comment":"Рефакторинг в RubyMine"},{"begin":"5:18","comment":"Особенности работы программы в дебаг режиме"},{"begin":"6:35","comment":"Когда нужно пользоваться дебагером"},{"begin":"8:04","comment":"Итоги урока"}]
 </script>
 </div>
 

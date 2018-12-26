@@ -14,13 +14,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/bRxdntfOfDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"1:15","comment":"Обзор всего багажа знаний курса"},{"begin":"6:49","comment":"Как оформить профиль на github и свое портфолио"},{"begin":"13:16","comment":"Где в интернете можно задать вопрос и как черпать новые знания"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"1:15","comment":"Обзор всего багажа знаний курса"},{"begin":"6:49","comment":"Как оформить профиль на github и свое портфолио"},{"begin":"13:16","comment":"Где в интернете можно задать вопрос и как черпать новые знания"}]
 </script>
 </div>
 
@@ -28,7 +28,7 @@ video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/VEbW2fk9SL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:10","comment":"Как составить хорошее резюме junior программиста"},{"begin":"1:03","comment":"Способы найти работу"},{"begin":"4:07","comment":"Как проходить собеседование: какие качества в себе развивать"},{"begin":"8:20","comment":"Про огонь в глазах и мотивацию"},{"begin":"11:16","comment":"Ошибки, которых нужно избегать на собеседовании"},{"begin":"13:50","comment":"Итоги урока"}]
+videoPlan["video-1"] = [{"begin":"0:10","comment":"Как составить хорошее резюме junior программиста"},{"begin":"1:03","comment":"Способы найти работу"},{"begin":"4:07","comment":"Как проходить собеседование: какие качества в себе развивать"},{"begin":"8:20","comment":"Про огонь в глазах и мотивацию"},{"begin":"11:16","comment":"Ошибки, которых нужно избегать на собеседовании"},{"begin":"13:50","comment":"Итоги урока"}]
 </script>
 </div>
 

@@ -12,13 +12,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/VtK8-OaBSOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:10","comment":"Приветствие и план урока"},{"begin":"1:00","comment":"Как выполняется программа"},{"begin":"3:25","comment":"Демонстрация потока выполнения"},{"begin":"5:36","comment":"Массивы: что это такое?"},{"begin":"8:46","comment":"Массивы: операции с массивами"},{"begin":"11:22","comment":"Массивы: нумерация элементов"},{"begin":"14:06","comment":"Итоги урока"}]
+videoPlan["video-0"] = [{"begin":"0:10","comment":"Приветствие и план урока"},{"begin":"1:00","comment":"Как выполняется программа"},{"begin":"3:25","comment":"Демонстрация потока выполнения"},{"begin":"5:36","comment":"Массивы: что это такое?"},{"begin":"8:46","comment":"Массивы: операции с массивами"},{"begin":"11:22","comment":"Массивы: нумерация элементов"},{"begin":"14:06","comment":"Итоги урока"}]
 </script>
 </div>
 

@@ -15,13 +15,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/knZcY9iFTD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:33","comment":"Приветствие и план урока"},{"begin":"2:02","comment":"Что такое библиотеки?"},{"begin":"3:02","comment":"Библиотеки в Ruby: gems"},{"begin":"3:57","comment":"Просмотр установленных библиотек: “gem list”"},{"begin":"4:28","comment":"Установка библиотек “gem install”"},{"begin":"5:28","comment":"Поиск библиотек на rubygems.org и ruby-toolbox"},{"begin":"7:05","comment":"Пишем программу для отправки почты с использованием библиотеки “pony”"},{"begin":"13:00","comment":"Обрабатываем ошибки при отправке почты"},{"begin":"14:10","comment":"Итоги урока"}]
+videoPlan["video-0"] = [{"begin":"0:33","comment":"Приветствие и план урока"},{"begin":"2:02","comment":"Что такое библиотеки?"},{"begin":"3:02","comment":"Библиотеки в Ruby: gems"},{"begin":"3:57","comment":"Просмотр установленных библиотек: “gem list”"},{"begin":"4:28","comment":"Установка библиотек “gem install”"},{"begin":"5:28","comment":"Поиск библиотек на rubygems.org и ruby-toolbox"},{"begin":"7:05","comment":"Пишем программу для отправки почты с использованием библиотеки “pony”"},{"begin":"13:00","comment":"Обрабатываем ошибки при отправке почты"},{"begin":"14:10","comment":"Итоги урока"}]
 </script>
 </div>
 

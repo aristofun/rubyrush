@@ -16,13 +16,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/vL4w48Owixg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:12","comment":"Приветствие и план урока"},{"begin":"0:59","comment":"Виселица v. 2: Проектируем классы и методы"},{"begin":"3:20","comment":"Виселица v. 2: Класс “Game”"},{"begin":"5:17","comment":"Виселица v. 2: Конструктор класса “Game”"},{"begin":"7:46","comment":"Виселица v. 2: Метод “ask_next_letter”"},{"begin":"9:50","comment":"Виселица v. 2: Метод ”next_step”"}]
+videoPlan["video-0"] = [{"begin":"0:12","comment":"Приветствие и план урока"},{"begin":"0:59","comment":"Виселица v. 2: Проектируем классы и методы"},{"begin":"3:20","comment":"Виселица v. 2: Класс “Game”"},{"begin":"5:17","comment":"Виселица v. 2: Конструктор класса “Game”"},{"begin":"7:46","comment":"Виселица v. 2: Метод “ask_next_letter”"},{"begin":"9:50","comment":"Виселица v. 2: Метод ”next_step”"}]
 </script>
 </div>
 
@@ -30,7 +30,7 @@ video_plan["video-0"] = [{"begin":"0:12","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/bPCvR8yKWQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:10","comment":"Виселица v. 2: Класс “ResultPrinter”"},{"begin":"0:42","comment":"Виселица v. 2: Метод “print_status”"},{"begin":"4:19","comment":"Виселица v. 2: Метод “get_word_for_print”"},{"begin":"5:51","comment":"Виселица v. 2: Пишем игру с учётом новых классов"},{"begin":"9:50","comment":"Виселица v. 2: Пробуем запустить игру, ловим ошибки"},{"begin":"12:10","comment":"Виселица v. 2: Псевдографика для вывода результатов"},{"begin":"17:39","comment":"Итоги урока"}]
+videoPlan["video-1"] = [{"begin":"0:10","comment":"Виселица v. 2: Класс “ResultPrinter”"},{"begin":"0:42","comment":"Виселица v. 2: Метод “print_status”"},{"begin":"4:19","comment":"Виселица v. 2: Метод “get_word_for_print”"},{"begin":"5:51","comment":"Виселица v. 2: Пишем игру с учётом новых классов"},{"begin":"9:50","comment":"Виселица v. 2: Пробуем запустить игру, ловим ошибки"},{"begin":"12:10","comment":"Виселица v. 2: Псевдографика для вывода результатов"},{"begin":"17:39","comment":"Итоги урока"}]
 </script>
 </div>
 

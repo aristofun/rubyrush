@@ -12,13 +12,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/CQU230pVP3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:38","comment":"Почему бывает недостаточно XML"},{"begin":"2:29","comment":"Используем JSON в Ruby "},{"begin":"4:42","comment":"Программа «Гороскоп»: постановка задачи"},{"begin":"5:43","comment":"Программа «Гороскоп»: структура JSON файла"},{"begin":"8:27","comment":"Программа «Гороскоп»: пишем основной код"},{"begin":"13:47","comment":"Программа «Гороскоп»: исправляем хитрые ошибки"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:38","comment":"Почему бывает недостаточно XML"},{"begin":"2:29","comment":"Используем JSON в Ruby "},{"begin":"4:42","comment":"Программа «Гороскоп»: постановка задачи"},{"begin":"5:43","comment":"Программа «Гороскоп»: структура JSON файла"},{"begin":"8:27","comment":"Программа «Гороскоп»: пишем основной код"},{"begin":"13:47","comment":"Программа «Гороскоп»: исправляем хитрые ошибки"}]
 </script>
 </div>
 

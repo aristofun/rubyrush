@@ -11,13 +11,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/9SA9fBADTa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:33","comment":"Статические методы: что, как и зачем"},{"begin":"3:18","comment":"Программа «Блокнот»: реализуем метод read_from_console"},{"begin":"6:00","comment":"Переопределение методов"},{"begin":"8:06","comment":"Абстрактные методы"},{"begin":"8:24","comment":"Программа «Блокнот»: реализуем метод to_strings"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:33","comment":"Статические методы: что, как и зачем"},{"begin":"3:18","comment":"Программа «Блокнот»: реализуем метод read_from_console"},{"begin":"6:00","comment":"Переопределение методов"},{"begin":"8:06","comment":"Абстрактные методы"},{"begin":"8:24","comment":"Программа «Блокнот»: реализуем метод to_strings"}]
 </script>
 </div>
 
@@ -25,7 +25,7 @@ video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/pswvdCAUQ4A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:03","comment":"Программа «Блокнот»: методы Post.post_types и Post.create"},{"begin":"2:29","comment":"Программа «Блокнот»: пишем основной код программы"},{"begin":"6:35","comment":"Запускаем «Блокнот»"},{"begin":"8:38","comment":"Обновляем .gitignore и сохраняем репозиторий на github"},{"begin":"10:19","comment":"Итоги урока "}]
+videoPlan["video-1"] = [{"begin":"0:03","comment":"Программа «Блокнот»: методы Post.post_types и Post.create"},{"begin":"2:29","comment":"Программа «Блокнот»: пишем основной код программы"},{"begin":"6:35","comment":"Запускаем «Блокнот»"},{"begin":"8:38","comment":"Обновляем .gitignore и сохраняем репозиторий на github"},{"begin":"10:19","comment":"Итоги урока "}]
 </script>
 </div>
 

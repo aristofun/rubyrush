@@ -12,13 +12,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/14st-9905LU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:07","comment":"Приветствие, план урока"},{"begin":"0:35","comment":"Циклы: что это и зачем нужны"},{"begin":"2:27","comment":"Циклы: пишем цикл while"},{"begin":"6:45","comment":"Циклы: бесконечный цикл"},{"begin":"8:04","comment":"Циклы: пишем цикл for"},{"begin":"11:37","comment":"Ввод данных в цикле, пишем программу «Элис»"},{"begin":"15:58","comment":"Итоги урока"}]
+videoPlan["video-0"] = [{"begin":"0:07","comment":"Приветствие, план урока"},{"begin":"0:35","comment":"Циклы: что это и зачем нужны"},{"begin":"2:27","comment":"Циклы: пишем цикл while"},{"begin":"6:45","comment":"Циклы: бесконечный цикл"},{"begin":"8:04","comment":"Циклы: пишем цикл for"},{"begin":"11:37","comment":"Ввод данных в цикле, пишем программу «Элис»"},{"begin":"15:58","comment":"Итоги урока"}]
 </script>
 </div>
 

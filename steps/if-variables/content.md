@@ -13,13 +13,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/NUIODiLOvqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:07","comment":"Приветствие и план урока"},{"begin":"1:20","comment":"Объекты и методы"},{"begin":"3:40","comment":"Переменные для хранения объектов"},{"begin":"7:46","comment":"Оператор ветвления IF"},{"begin":"15:44","comment":"Итоги урока"}]
+videoPlan["video-0"] = [{"begin":"0:07","comment":"Приветствие и план урока"},{"begin":"1:20","comment":"Объекты и методы"},{"begin":"3:40","comment":"Переменные для хранения объектов"},{"begin":"7:46","comment":"Оператор ветвления IF"},{"begin":"15:44","comment":"Итоги урока"}]
 </script>
 </div>
 

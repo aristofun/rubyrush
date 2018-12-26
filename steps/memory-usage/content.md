@@ -11,13 +11,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/AHLO3-AnA7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:48","comment":"Почему важно понимать работу памяти компьютера"},{"begin":"2:34","comment":"Как смотреть ресурсы, занятые программой"},{"begin":"4:38","comment":"Как объекты занимают память"},{"begin":"5:40","comment":"Анализируем работу памяти своих программ на примерах"},{"begin":"8:35","comment":"Жизненный цикл объекта и сборщик мусора"},{"begin":"11:30","comment":"Наблюдаем за сборщиком мусора в руби "}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока "},{"begin":"0:48","comment":"Почему важно понимать работу памяти компьютера"},{"begin":"2:34","comment":"Как смотреть ресурсы, занятые программой"},{"begin":"4:38","comment":"Как объекты занимают память"},{"begin":"5:40","comment":"Анализируем работу памяти своих программ на примерах"},{"begin":"8:35","comment":"Жизненный цикл объекта и сборщик мусора"},{"begin":"11:30","comment":"Наблюдаем за сборщиком мусора в руби "}]
 </script>
 </div>
 
@@ -25,7 +25,7 @@ video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/phedw_OXLrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:04","comment":"Область видимости переменных"},{"begin":"1:27","comment":"Глобальная область видимости"},{"begin":"2:18","comment":"Локальная область видимости"},{"begin":"4:05","comment":"«Классовая» область видимости"},{"begin":"5:00","comment":"Жизненный цикл глобальных, локальных и «классовых» переменных"},{"begin":"7:06","comment":"Локальные переменные в Ruby на примерах"},{"begin":"8:37","comment":"Итоги урока"}]
+videoPlan["video-1"] = [{"begin":"0:04","comment":"Область видимости переменных"},{"begin":"1:27","comment":"Глобальная область видимости"},{"begin":"2:18","comment":"Локальная область видимости"},{"begin":"4:05","comment":"«Классовая» область видимости"},{"begin":"5:00","comment":"Жизненный цикл глобальных, локальных и «классовых» переменных"},{"begin":"7:06","comment":"Локальные переменные в Ruby на примерах"},{"begin":"8:37","comment":"Итоги урока"}]
 </script>
 </div>
 

@@ -14,13 +14,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/7_5IOFloCCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план"},{"begin":"0:55","comment":"Смысл регулярных выражений в руби"},{"begin":"2:34","comment":"Поиск строк с помощью регулярных выражений"},{"begin":"5:44","comment":"Спец. символы в регулярках"},{"begin":"10:25","comment":"Диапазоны в регулярках"},{"begin":"13:15","comment":"Песочница для изучения регулярок — regex101.com"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план"},{"begin":"0:55","comment":"Смысл регулярных выражений в руби"},{"begin":"2:34","comment":"Поиск строк с помощью регулярных выражений"},{"begin":"5:44","comment":"Спец. символы в регулярках"},{"begin":"10:25","comment":"Диапазоны в регулярках"},{"begin":"13:15","comment":"Песочница для изучения регулярок — regex101.com"}]
 </script>
 </div>
 
@@ -28,7 +28,7 @@ video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/RD4nXSEKYlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:04","comment":"Замена подстрок с помощью регулярок в Ruby — gsub"},{"begin":"1:57","comment":"Игра «Паттерны» — постановка задачи"},{"begin":"3:18","comment":"Игра «Паттерны» — основной код программы"},{"begin":"5:48","comment":"Игра «Паттерны» — метод, создающий паттерн"},{"begin":"10:16","comment":"Игра «Паттерны» — метод, проверяющий слово в Вики словаре"},{"begin":"14:35","comment":"О темной стороне силы: как относится к регуляркам"}]
+videoPlan["video-1"] = [{"begin":"0:04","comment":"Замена подстрок с помощью регулярок в Ruby — gsub"},{"begin":"1:57","comment":"Игра «Паттерны» — постановка задачи"},{"begin":"3:18","comment":"Игра «Паттерны» — основной код программы"},{"begin":"5:48","comment":"Игра «Паттерны» — метод, создающий паттерн"},{"begin":"10:16","comment":"Игра «Паттерны» — метод, проверяющий слово в Вики словаре"},{"begin":"14:35","comment":"О темной стороне силы: как относится к регуляркам"}]
 </script>
 </div>
 

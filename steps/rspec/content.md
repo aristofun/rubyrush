@@ -12,13 +12,13 @@
 
 <!-- youtube starts here -->
 <script>
-var video_plan = {}
+var videoPlan = {}
 </script>
 
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-0">
 <iframe src="https://www.youtube.com/embed/1ngMzEPVsps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"1:09","comment":"Почему необходимо тестирование"},{"begin":"2:20","comment":"Программистское тестирование"},{"begin":"4:54","comment":"Подходы к тестированию: TDD"},{"begin":"6:07","comment":"Библиотека RSpec "},{"begin":"7:43","comment":"Тестируем программу «Склонятор»"}]
+videoPlan["video-0"] = [{"begin":"0:06","comment":"Приветствие и план урока"},{"begin":"1:09","comment":"Почему необходимо тестирование"},{"begin":"2:20","comment":"Программистское тестирование"},{"begin":"4:54","comment":"Подходы к тестированию: TDD"},{"begin":"6:07","comment":"Библиотека RSpec "},{"begin":"7:43","comment":"Тестируем программу «Склонятор»"}]
 </script>
 </div>
 
@@ -26,7 +26,7 @@ video_plan["video-0"] = [{"begin":"0:06","comment":"Приветствие и п
 <div class="embed-responsive embed-responsive-16by9 rubyrush-video" id="video-1">
 <iframe src="https://www.youtube.com/embed/QhgdaMJrfCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script>
-video_plan["video-1"] = [{"begin":"0:04","comment":"Автоматизируем тесты «Склонятора»"},{"begin":"5:11","comment":"Тесты + рефакторинг"},{"begin":"6:00","comment":"Рефакторим «Склонятор», а тесты нас страхуют"},{"begin":"10:50","comment":"Мораль: почему так важно писать тесты"},{"begin":"15:15","comment":"Итоги урока"}]
+videoPlan["video-1"] = [{"begin":"0:04","comment":"Автоматизируем тесты «Склонятора»"},{"begin":"5:11","comment":"Тесты + рефакторинг"},{"begin":"6:00","comment":"Рефакторим «Склонятор», а тесты нас страхуют"},{"begin":"10:50","comment":"Мораль: почему так важно писать тесты"},{"begin":"15:15","comment":"Итоги урока"}]
 </script>
 </div>
 
