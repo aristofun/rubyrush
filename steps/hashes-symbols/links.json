@@ -32,19 +32,19 @@
   "materials": [
     {
       "title": "Программа «Таблица Менделеева»",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/hashes-symbols/files/mendeleev.rb"
+      "url": "mendeleev.rb"
     },
     {
       "title": "Программа отправки почты",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/hashes-symbols/files/send_mail.rb"
+      "url": "send_mail.rb"
     },
     {
       "title": "«Герой–Антигерой», старая версия",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/hashes-symbols/files/hero_antihero_old.rb"
+      "url": "hero_antihero_old.rb"
     },
     {
       "title": "«Герой–Антигерой», новая версия",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/hashes-symbols/files/hero_antihero_new.rb"
+      "url": "hero_antihero_new.rb"
     }
   ]
 }

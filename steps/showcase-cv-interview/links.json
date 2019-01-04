@@ -52,7 +52,7 @@
   "materials": [
     {
       "title": "Программы, достойные портфолио",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/showcase-cv-interview/files/good_progs_list.txt"
+      "url": "good_progs_list.txt"
     }
   ]
 }

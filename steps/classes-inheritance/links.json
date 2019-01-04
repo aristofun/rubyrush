@@ -24,7 +24,7 @@
   "materials": [
     {
       "title": "«Блокнот», только заготовки классов",
-      "url": "https://github.com/aristofun/rubyrush-path/tree/master/steps/classes-inheritance/files/notepad/"
+      "url": "notepad/"
     }
   ]
 }

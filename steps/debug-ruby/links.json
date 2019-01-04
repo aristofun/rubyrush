@@ -24,11 +24,11 @@
   "materials": [
     {
       "title": "Плохая версия квадратного уравнения",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/debugger/files/equation_bad.rb"
+      "url": "equation_bad.rb"
     },
     {
       "title": "Хорошая версия квадратного уравнения",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/debugger/files/equation_good.rb"
+      "url": "equation_good.rb"
     }
   ]
 }

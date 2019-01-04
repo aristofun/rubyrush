@@ -32,7 +32,7 @@
   "materials": [
     {
       "title": "Программа отправки почты",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/rubygems/files/send_mail.rb"
+      "url": "send_mail.rb"
     }
   ]
 }

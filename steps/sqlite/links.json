@@ -36,7 +36,7 @@
   "materials": [
     {
       "title": "Исходники SQLite как на видео",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/sqlite/files/sqlite-autoconf-3081100.zip"
+      "url": "sqlite-autoconf-3081100.zip"
     }
   ]
 }

@@ -20,23 +20,23 @@
   "materials": [
     {
       "title": "Метод-склонятор и «10 негритят»",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/methods/files/inclination.rb"
+      "url": "inclination.rb"
     },
     {
       "title": "Параметры вызова методов",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/methods/files/parameters.rb"
+      "url": "parameters.rb"
     },
     {
       "title": "Возвращаемое значение метода",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/methods/files/return.rb"
+      "url": "return.rb"
     },
     {
       "title": "Метод puts",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/methods/files/puts.rb"
+      "url": "puts.rb"
     },
     {
       "title": "Примеры методов на руби",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/methods/files/methods.rb"
+      "url": "methods.rb"
     }
   ]
 }

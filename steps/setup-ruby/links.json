@@ -40,23 +40,23 @@
   "materials": [
     {
       "title": "Шпаргалка (Cheat sheet) Sublime 2",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/setup-ruby/files/sublime_text_2_cheatsheet_ru.png"
+      "url": "sublime_text_2_cheatsheet_ru.png"
     },
     {
       "title": "Осторожнее с программированием :)",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/setup-ruby/files/hello_world_comic.jpg"
+      "url": "hello_world_comic.jpg"
     },
     {
       "title": "Программа «Hello, world!»",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/setup-ruby/files/hello.rb"
+      "url": "hello.rb"
     },
     {
       "title": "Шпаргалка Sublime 3",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/setup-ruby/files/sublime_text_3_cheatsheet_en.pdf"
+      "url": "sublime_text_3_cheatsheet_en.pdf"
     },
     {
       "title": "Шпаргалка Sublime 3 для MacOS",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/setup-ruby/files/sublime-text-3-osx.pdf"
+      "url": "sublime-text-3-osx.pdf"
     }
   ]
 }

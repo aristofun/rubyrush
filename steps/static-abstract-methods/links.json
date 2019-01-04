@@ -40,7 +40,7 @@
   "materials": [
     {
       "title": "Блокнот первая версия",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/static-abstract-methods/files/notepad.zip"
+      "url": "notepad.zip"
     }
   ]
 }

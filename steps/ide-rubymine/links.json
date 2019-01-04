@@ -16,11 +16,11 @@
   "materials": [
     {
       "title": "Проект «Виселица»",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/ide-rubymine/files/viselitsa.zip"
+      "url": "viselitsa.zip"
     },
     {
       "title": "Программа «Монетка»",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/ide-rubymine/files/coin.rb"
+      "url": "coin.rb"
     }
   ]
 }

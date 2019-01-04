@@ -24,11 +24,11 @@
   "materials": [
     {
       "title": "Работа с аргументами запуска",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/argv-test/files/arguments.rb"
+      "url": "arguments.rb"
     },
     {
       "title": "Тест на ревнивость",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/argv-test/files/jealous_test.rb"
+      "url": "jealous_test.rb"
     }
   ]
 }

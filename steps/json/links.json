@@ -20,11 +20,11 @@
   "materials": [
     {
       "title": "Программа «Гороскоп»",
-      "url": "https://github.com/aristofun/rubyrush-path/tree/master/steps/json/files/astro_sign/"
+      "url": "astro_sign/"
     },
     {
       "title": "Программа «Выбор цвета»",
-      "url": "https://github.com/aristofun/rubyrush-path/tree/master/steps/json/files/colors/"
+      "url": "colors/"
     }
   ]
 }

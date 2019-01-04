@@ -36,15 +36,15 @@
   "materials": [
     {
       "title": "Рецепты XPath, CSS (как искать информацию в сложном XML) 2",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/network/files/xpath_css_recipes_2.pdf"
+      "url": "xpath_css_recipes_2.pdf"
     },
     {
       "title": "Рецепты XPath, CSS (как искать информацию в сложном XML) 1",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/network/files/xpath_css_recipes_1.pdf"
+      "url": "xpath_css_recipes_1.pdf"
     },
     {
       "title": "Прогноз погоды, XML от Метеосервиса",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/network/files/meteoservice.rb"
+      "url": "meteoservice.rb"
     }
   ]
 }

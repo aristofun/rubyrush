@@ -16,11 +16,11 @@
   "materials": [
     {
       "title": "Класс Bridge (Мост)",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/classes-objects/files/bridge.rb"
+      "url": "bridge.rb"
     },
     {
       "title": "Программа, использующая Bridge",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/classes-objects/files/road.rb"
+      "url": "road.rb"
     }
   ]
 }

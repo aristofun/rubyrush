@@ -20,11 +20,11 @@
   "materials": [
     {
       "title": "Виселица, версия 3",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/viselitsa-v3/files/"
+      "url": ""
     },
     {
       "title": "Виселица, версия 3 (ZIP архив)",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/viselitsa-v3/files/viselitsa_v3.zip"
+      "url": "viselitsa_v3.zip"
     }
   ]
 }

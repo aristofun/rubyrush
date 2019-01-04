@@ -16,19 +16,19 @@
   "materials": [
     {
       "title": "Архив со всеми программами урока",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/read-files/files/files_read.zip"
+      "url": "files_read.zip"
     },
     {
       "title": "Афоризмы (положить в подпапку /data/)",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/read-files/files/aphorizmus.txt"
+      "url": "aphorizmus.txt"
     },
     {
       "title": "Программа, читающая фай построчно",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/read-files/files/read_lines.rb"
+      "url": "read_lines.rb"
     },
     {
       "title": "Программа, открывающая файл афоризмов",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/read-files/files/open_file.rb"
+      "url": "open_file.rb"
     }
   ]
 }

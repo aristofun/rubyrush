@@ -36,11 +36,11 @@
   "materials": [
     {
       "title": "«Склонятор» и тесты до рефакторинга",
-      "url": "https://github.com/aristofun/rubyrush-path/tree/master/steps/rspec/files/sklonjator/"
+      "url": "sklonjator/"
     },
     {
       "title": "«Склонятор» и тесты после рефакторинга",
-      "url": "https://github.com/aristofun/rubyrush-path/tree/master/steps/rspec/files/sklonjator_refactored/"
+      "url": "sklonjator_refactored/"
     }
   ]
 }

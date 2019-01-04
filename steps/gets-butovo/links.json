@@ -28,15 +28,15 @@
   "materials": [
     {
       "title": "Короткая версия программы из видео",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/gets-butovo/files/butovo_simple.rb"
+      "url": "butovo_simple.rb"
     },
     {
       "title": "Полная версия «Южного Бутова»",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/gets-butovo/files/butovo_full.rb"
+      "url": "butovo_full.rb"
     },
     {
       "title": "Ввод данных с консоли",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/gets-butovo/files/gets.rb"
+      "url": "gets.rb"
     }
   ]
 }

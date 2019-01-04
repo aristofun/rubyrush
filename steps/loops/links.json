@@ -32,23 +32,23 @@
   "materials": [
     {
       "title": "Перебираем яйца",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/loops/files/eggs.rb"
+      "url": "eggs.rb"
     },
     {
       "title": "Работаем со временем",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/loops/files/time.rb"
+      "url": "time.rb"
     },
     {
       "title": "Кто же такая Элис?",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/loops/files/alice.rb"
+      "url": "alice.rb"
     },
     {
       "title": "Вечный цикл :)",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/loops/files/funny_cycle.gif"
+      "url": "funny_cycle.gif"
     },
     {
       "title": "Работаем с циклами",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/loops/files/cycles.rb"
+      "url": "cycles.rb"
     }
   ]
 }

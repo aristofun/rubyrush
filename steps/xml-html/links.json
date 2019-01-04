@@ -16,15 +16,15 @@
   "materials": [
     {
       "title": "Программа Личные финансы, v.1",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/xml-html/files/expenses_tracker.zip"
+      "url": "expenses_tracker.zip"
     },
     {
       "title": "Документ Word в виде zip",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/xml-html/files/patsansky_kiker.docx.zip"
+      "url": "patsansky_kiker.docx.zip"
     },
     {
       "title": "Пример простого XML файла",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/xml-html/files/sample.xml"
+      "url": "sample.xml"
     }
   ]
 }

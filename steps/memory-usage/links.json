@@ -36,11 +36,11 @@
   "materials": [
     {
       "title": "Программа «Винни-Пух», версия 1",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/memory-usage/files/bear_honeypots.rb"
+      "url": "bear_honeypots.rb"
     },
     {
       "title": "Программа «Винни-Пух», версия 2",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/memory-usage/files/bear_honeypots_collector.rb"
+      "url": "bear_honeypots_collector.rb"
     }
   ]
 }

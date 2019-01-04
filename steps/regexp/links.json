@@ -36,11 +36,11 @@
   "materials": [
     {
       "title": "Основной игровой скрипт",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/regexp/files/game.rb"
+      "url": "game.rb"
     },
     {
       "title": "Файл с методами игры",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/regexp/files/methods.rb"
+      "url": "methods.rb"
     }
   ]
 }

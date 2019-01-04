@@ -20,15 +20,15 @@
   "materials": [
     {
       "title": "«Личные финансы», версия 2",
-      "url": "https://github.com/aristofun/rubyrush-path/tree/master/steps/xml-write/files/expenses_tracker/"
+      "url": "expenses_tracker/"
     },
     {
       "title": "Обзор возможностей XPath",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/xml-write/files/XPath_cheatshit.pdf"
+      "url": "XPath_cheatshit.pdf"
     },
     {
       "title": "Чит-шит XPath",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/xml-write/files/XPath_cheatshit_2.pdf"
+      "url": "XPath_cheatshit_2.pdf"
     }
   ]
 }

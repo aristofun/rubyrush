@@ -36,7 +36,7 @@
   "materials": [
     {
       "title": "Первая версия «Палиндрома»",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/irb/files/palindrom.rb"
+      "url": "palindrom.rb"
     }
   ]
 }

@@ -6,15 +6,11 @@
     },
     {
       "title": "Почему вам стоит изучать программирование? Интересное видео",
-      "url": "http://www.youtube.com/watch?v=Ywwu2dyEZ5w"
-    },
-    {
-      "title": "Альтернативный взгляд на вопрос «Как стать программистом?»",
-      "url": "http://habrahabr.ru/post/202988/"
+      "url": "https://www.youtube.com/watch?v=nP67BEgE_zM"
     },
     {
       "title": "Можно ли стать программистом после тридцати?",
-      "url": "http://habrahabr.ru/post/204168/"
+      "url": "https://www.youtube.com/watch?v=raUvkzLJnwk"
     },
     {
       "title": "17—летний программист—мультимиллионер",
@@ -24,15 +20,15 @@
   "materials": [
     {
       "title": "Делаем первые шаги :)",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/about-course/files/13.gif"
+      "url": "13.gif"
     },
     {
       "title": "Как неправильно учиться рисовать сову",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/about-course/files/4.jpg"
+      "url": "4.jpg"
     },
     {
       "title": "Как правильно учиться рисовать сову!",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/about-course/files/10.jpg"
+      "url": "10.jpg"
     }
   ]
 }

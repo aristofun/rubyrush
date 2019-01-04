@@ -40,11 +40,11 @@
   "materials": [
     {
       "title": "Работа с переменными",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/if-variables/files/variables.rb"
+      "url": "variables.rb"
     },
     {
       "title": "Вывод свойств объекта",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/if-variables/files/objects.rb"
+      "url": "objects.rb"
     }
   ]
 }

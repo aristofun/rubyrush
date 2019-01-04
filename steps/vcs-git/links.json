@@ -28,11 +28,11 @@
   "materials": [
     {
       "title": "Программа «Кости», первая версия",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/vcs-git/files/roll_a_die.rb"
+      "url": "roll_a_die.rb"
     },
     {
       "title": "Программа «Кости», вторая версия",
-      "url": "https://github.com/aristofun/rubyrush-path/blob/master/steps/vcs-git/files/roll_some_dice.rb"
+      "url": "roll_some_dice.rb"
     }
   ]
 }
