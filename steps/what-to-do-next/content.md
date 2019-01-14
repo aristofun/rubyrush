@@ -197,7 +197,7 @@ videoPlan["video-1"] = [{"begin":"0:21","comment":"История Вадика"}
 
 Напоследок хочется пожелать удачи. 
 
-Оставайтесь на связи, обязательно вступайте в наш [телеграм-чат](https://t.me/good_ruby) и подпишитесь на наш [канал на YouTube](https://www.youtube.com/channel/UCDPdTky4sQtQEwOLAe5v-NA). 
+Оставайтесь на связи, обязательно вступайте в наш [телеграм-чат](https://t.me/rubyrush) и подпишитесь на наш [канал на YouTube](https://www.youtube.com/channel/UCDPdTky4sQtQEwOLAe5v-NA). 
 
 Оставляйте отзывы и пишите о ваших успехах. До новых встреч! Программируйте хорошо! :)
 
