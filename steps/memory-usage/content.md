@@ -252,7 +252,7 @@ end
 puts "Winnie the Pooh is trying to fall asleep..."
 
 # вызвали метод, внутри которого посчитали 5 млн. горшочков
-count_honeypots()
+count_honeypots
 
 # задержка, чтобы успеть увидеть изменение памяти в диспетчере задач
 sleep 3
