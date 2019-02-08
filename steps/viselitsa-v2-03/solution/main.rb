@@ -4,7 +4,7 @@
 require_relative 'film'
 require_relative 'person'
 
-# Созжаем трех людей — три экземпляра класса Человек
+# Создаем трех людей — три экземпляра класса Человек
 person1 = Person.new('Сергей', 'Витальевич', 43)
 person2 = Person.new('Марина', 'Энн', 28)
 person3 = Person.new('Мадонна', 'Луиза', 58)
