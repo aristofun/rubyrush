@@ -99,7 +99,7 @@ https://github.com/aristofun/rubyrush/blob/master/steps/argv-test-01/content.md 
 ### Новые уроки
 1. Увидели что какая-то тема рассказана плохо или не рассказана вообще
 2. Или вспомнили интересную задачку для начинающих
-3. Свяжитесь с [@aristofun](http://t.me/aristofun), [@installero](http://t.me/installero) чтобы согласовать тему
+3. Свяжитесь с [@aristofun](tg://resolve?domain=aristofun), [@installero](tg://resolve?domain=installero) чтобы согласовать тему
 4. Пулл-реквест
 5. PROFIT!!
 
