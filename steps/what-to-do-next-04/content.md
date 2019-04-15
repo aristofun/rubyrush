@@ -29,7 +29,7 @@
 
 Напоследок хочется пожелать удачи. 
 
-Оставайтесь на связи, обязательно вступайте в наш [телеграм-чат](tg://resolve?domain=rubyrush) и подпишитесь на наш [канал на YouTube](https://www.youtube.com/channel/UCDPdTky4sQtQEwOLAe5v-NA). 
+Оставайтесь на связи, обязательно вступайте в наш [телеграм-чат](http://t-do.ru/rubyrush) и подпишитесь на наш [канал на YouTube](https://www.youtube.com/channel/UCDPdTky4sQtQEwOLAe5v-NA). 
 
 Оставляйте отзывы и пишите о ваших успехах. До новых встреч! Программируйте хорошо! :)
 
