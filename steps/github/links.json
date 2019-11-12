@@ -52,7 +52,7 @@
   "materials": [
     {
       "title": "Программа «Pick a card»",
-      "url": "https://github.com/aristofun/pick_a_card"
+      "url": "pick_a_card.rb"
     }
   ]
 }
