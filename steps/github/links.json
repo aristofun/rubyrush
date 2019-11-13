@@ -37,8 +37,12 @@
       "url": "http://stackoverflow.com/questions/18404272/windows-ssh-agent-run-when-start"
     },
     {
-      "title": "Настройка SSH на Windows/Linux/Mac (eng)",
-      "url": "http://techblog.troyweb.com/index.php/2013/06/ssh-keys-and-ssh-agent-on-windowslinuxmac/"
+      "title": "Как настроить ключи SSH в Ubuntu 18.04",
+      "url": "https://www.digitalocean.com/community/tutorials/ssh-ubuntu-18-04-ru"
+    },
+    {
+      "title": "Быстрый старт в GitHub",
+      "url": "https://forum.calculate-linux.org/t/github/9155"
     },
     {
       "title": "Символы игральных карт в Юникоде",
