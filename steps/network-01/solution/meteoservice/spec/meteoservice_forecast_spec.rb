@@ -5,10 +5,10 @@ describe MeteoserviceForecast do
     let(:forecast) do
       MeteoserviceForecast.new(
         date: Date.parse('30.03.2017'),
-        time_of_day: 'утро',
+        time_of_day: 1,
         temperature_min: 10,
         temperature_max: 13,
-        cloudiness: 'ясно',
+        cloudiness: 0,
         max_wind: 10
       )
     end
