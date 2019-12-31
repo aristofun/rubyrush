@@ -51,7 +51,7 @@ def get_user_input
   return letter
 end
 
-# Метод check_input проверяет введенную пользователем букву и кладет её в один
+# Метод check_result проверяет введенную пользователем букву и кладет её в один
 # из двух массивов — с «хорошими» буквами, которые есть в слове, и «плохими»,
 # которых в слове нет.
 #
@@ -62,7 +62,7 @@ end
 # -1 — если введенной буквы нет в слове
 #  1 — если всё слово угадано целиком
 #
-def check_input(user_input, letters, good_letters, bad_letters)
+def check_result(user_input, letters, good_letters, bad_letters)
   # Если введенная буква уже есть в списке «хороших» или «плохих» сходу
   # вернем 0, так как ничего не изменилось, игра продолжится.
   if good_letters.include?(user_input) || bad_letters.include?(user_input)
