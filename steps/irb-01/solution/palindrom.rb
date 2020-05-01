@@ -10,7 +10,7 @@ original_string = STDIN.gets.encode('UTF-8').chomp
 # Удаляем из строки все пробелы методом delete. В скобках этот метод принимает
 # строку из всех символов, которые нужно удалить. Бонусом можно было удалить все
 # знаки препинания (мы — не будем). Потом переводим строку в нижний регистр.
-stripped_string = original_string.delete(' ,.!?;:-—').downcase
+stripped_string = original_string.delete(' ,.!?;:—-').downcase
 
 # Получаем перевернутую строку и записываем её в переменную reverse_string.
 reverse_string = stripped_string.reverse
