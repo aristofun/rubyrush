@@ -23,7 +23,7 @@
 2. `Ctrl + Shift + D`
 3. `Ctrl + /`
 4. `Ctrl + Shift + ↑/↓`
-5. `Ctrl + K`
+5. `Ctrl + Shift + K`
 
 Для Mac OS хоткеи аналогичные, но вместо **Ctrl** -> **Cmd**
 
