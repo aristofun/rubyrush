@@ -30,7 +30,7 @@
 doc.root.elements["first_name"].text
 ```
 
-Возможно, вам понадобится заглянуть в [инструкцию по использованию этой библиотеки](http://www.germane-software.com/software/rexml/docs/tutorial.html) (ещё [одна](http://www.germane-software.com/software/rexml/docs/tutorial.html), описание [класса REXML](https://ruby-doc.org/stdlib-2.4.1/libdoc/rexml/rdoc/REXML/Document.html)).
+Возможно, вам понадобится заглянуть в [инструкцию по использованию этой библиотеки](https://www.germane-software.com/software/XML/rexml/docs/tutorial.html) (ещё [одна](https://www.germane-software.com/software/XML/rexml/docs/tutorial.html), описание [класса REXML](https://ruby-doc.org/stdlib-2.4.1/libdoc/rexml/rdoc/REXML/Document.html)).
 
 </div>
 
