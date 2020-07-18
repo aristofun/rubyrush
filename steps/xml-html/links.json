@@ -6,7 +6,7 @@
     },
     {
       "title": "Как работать с парсером REXML (eng)",
-      "url": "http://www.germane-software.com/software/rexml/docs/tutorial.html"
+      "url": "http://www.germane-software.com/software/rexml/docs/tutorial.html" #ссылка ошибку 404 выбивает
     },
     {
       "title": "Основы XML для начинающих",
