@@ -18,7 +18,7 @@ class Movie < Product
     @director_name = STDIN.gets.chomp
 
     puts 'Укажите дату выхода фильма'
-    @year = STDIN.gest.chomp.to_i
+    @year = STDIN.gets.chomp.to_i
   end
 
   # Переопределим метод создания XML-элемента
