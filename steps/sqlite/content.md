@@ -164,7 +164,7 @@ INSERT INTO companies VALUES (`Google`);
 Обратите внимание, что при создании таблицы SQlite Manager показал нам запрос, который отправляется для создания этой таблицы. Да, для того, чтобы создавать таблицы (а в некоторых СУБД даже для создания баз данных) также используются SQL-запросы.
 
 ```sql
-CREATE TABLE "main"."people" ("name" TEXT, "phone" TEXT, "birthday" DAYTIME);
+CREATE TABLE "main"."people" ("name" TEXT, "phone" TEXT, "birthday" DATETIME);
 ```
 
 Создайте в вашей новой БД запись. Для этого во вкладке `Выполнить запрос` напишите INSERT-запрос:
