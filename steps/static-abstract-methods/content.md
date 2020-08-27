@@ -67,7 +67,7 @@ sleep 1
 
 Также вам, наверное, знакомы статические методы `Time.now` и `Date.parse`.
 
-![Статические методы](http://goodprogrammer.ru/system/rich_texts/000/000/5044c88d17400ea5d8967ce6894e72348cae53d8c1c/02-abstract-methods-for-text.png?1443119022 "Статические методы")
+![Статические методы](https://goodprogrammer.ru/system/rich_texts/000/000/50341fa2df347e1ab88219de61f0c6c0200d26c54fa/01-static-methods-for-text.png "Статические методы")
 
 ### Как создавать статические методы
 
@@ -107,7 +107,7 @@ MyClass.static_method
 
 В некоторых языках программирования, например, в Java, такие методы называют абстрактными.
 
-![Абстрактные методы](http://goodprogrammer.ru/system/rich_texts/000/000/33914420843c7ccaa78b96428fd520b6d1f83f8e586/02-abstract-methods.png?1440865028 "Абстрактные методы")
+![Абстрактные методы](https://goodprogrammer.ru/system/rich_texts/000/000/5044c88d17400ea5d8967ce6894e72348cae53d8c1c/02-abstract-methods-for-text.png "Абстрактные методы")
 
 ### Блокнот версия v. 1.0
 
