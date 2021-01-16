@@ -16,37 +16,33 @@ end
 
 require 'net/http'
 require 'rexml/document'
+require 'json'
 
 require_relative 'lib/meteoservice_forecast'
+require_relative 'data/cities.json'
 
-# Словарик городов, собранных с сайта Метеосервиса. Можно написать код, который
-# будет собирать все города и их названия с сайта амтоматически, но мы пока
-# этого делать не будем. При необходимости добавляйте свои города руками.
-CITIES = {
-  37 => 'Москва',
-  69 => 'Санкт-Петербург',
-  99 => 'Новосибирск',
-  59 => 'Пермь',
-  115 => 'Орел',
-  121 => 'Чита',
-  141 => 'Братск',
-  199 => 'Краснодар'
-}.invert.freeze
-
-# Сделаем массив из наваний городов, взяв ключи массива CITIES
-city_names = CITIES.keys
+# Прочитаем файл с городами и их индексами(https://www.meteoservice.ru/content/export.html)
+# И запишем данные в cities
+file = File.read("#{__dir__}/data/cities.json", encoding: 'utf-8')
+cities = JSON.parse(file)
 
 # Спрашиваем у пользователя, какой город по порядку ему нужен
 puts 'Погоду для какого города Вы хотите узнать?'
-city_names.each_with_index { |name, index| puts "#{index + 1}: #{name}" }
-city_index = gets.to_i
-unless city_index.between?(1, city_names.size)
-  city_index = gets.to_i
-  puts "Введите число от 1 до #{city_names.size}"
+cities.each_with_index do |name,index|
+  puts "#{index+1}: #{name.first}"
+end
+
+city_index = gets.chomp.to_i
+# Пока пользователь не введет число между 1 и 8 (в нашем случае)
+# програма будет уведомлять об не правильном вводе и просить ввести число снова
+until city_index.between?(1, cities.size)
+  puts "Неверный выбор!"
+  puts "Пожалуйста введите число от 1 до #{cities.size}"
+  city_index = gets.chomp.to_i
 end
 
 # Когда, наконец, получим нуный индекс, достаем city_id
-city_id = CITIES[city_names[city_index - 1]]
+city_id = cities[cities[city_index - 1]]
 
 # Сформировали адрес запроса
 url = "http://xml.meteoservice.ru/export/gismeteo/point/#{city_id}.xml"
