@@ -44,7 +44,7 @@
   "materials": [
     {
       "title": "«Блокнот», версия 2 с SQLite",
-      "url": "notepad.zip"
+      "url": "https://github.com/aristofun/rubyrush/tree/master/steps/sqlite-notepad/files/notepad"
     },
     {
       "title": "SQL схема БД для ДЗ",
