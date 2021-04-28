@@ -1,11 +1,17 @@
 # Подключаем библиотеку для работы с протоколом HTTP. Позже в курсе вы узнаете
 # о нем подробнее.
+# Для работы на Ruby версии 3.0 и выше необходимо доставить gem addressable
+# и подключить его, т.к. net/http в Ruby версии 3.0 и выше не поддерживает метод encode
 require 'net/http'
+#require 'addressable/uri'
 
 # Метод, word_exits? проверяет, есть ли статья на Викисловаре с таким словом
 def word_exists?(word)
   # Формируем адрес страницы для проверки и записываем в переменную url.
   url = "https://ru.wiktionary.org/wiki/#{word}"
+
+  #Для использования в Ruby 3.0 и выше необходимо использовать следующий код. Делает тоже самое, что и net/http.
+  # url = Addressable::URI.encode("https://ru.wiktionary.org/wiki/#{word}")
 
   # Достаем содержимое страницы по указанному адресу и записываем в переменную
   # wiktionary_page. Обратите внимание, что мы меняем кодировку на utf-8, чтобы
@@ -13,6 +19,13 @@ def word_exists?(word)
   wiktionary_page = Net::HTTP.get(
     URI.parse(URI.encode(url))
   ).force_encoding('UTF-8')
+
+  #Для использования в Ruby 3.0 и выше необходимо использовать следующий код.
+  # Encode убрали выше для использования в gem addressable
+
+  # wiktionary_page = Net::HTTP.get(
+  #    URI.parse(url)
+  #  ).force_encoding('UTF-8')
 
   # С помощью регулярного выражения проверяем, есть ли на странице текст о том,
   # что такого слова нет.
