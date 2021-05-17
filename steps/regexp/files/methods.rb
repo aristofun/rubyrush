@@ -5,13 +5,13 @@ require 'net/http'
 # Метод, word_exits? проверяет, есть ли статья на Викисловаре с таким словом
 def word_exists?(word)
   # Формируем адрес страницы для проверки и записываем в переменную url.
-  url = "https://ru.wiktionary.org/wiki/#{word}"
+  uri = "https://ru.wiktionary.org/wiki/" + URI.encode_www_form_component(word) 
 
   # Достаем содержимое страницы по указанному адресу и записываем в переменную
   # wiktionary_page. Обратите внимание, что мы меняем кодировку на utf-8, чтобы
   # мы могли корректно работать с русскими буквами.
   wiktionary_page = Net::HTTP.get(
-    URI.parse(URI.encode(url))
+    URI(uri)
   ).force_encoding('UTF-8')
 
   # С помощью регулярного выражения проверяем, есть ли на странице текст о том,
