@@ -16,6 +16,9 @@ require 'net/http'
 # Подключаем библиотеку для парсинга XML
 require 'rexml/document'
 
+# Для руби 3.0.0 используем библиотеку CGI
+require 'cgi'
+
 # Этот код необходим только при использовании русских букв на Windows
 if Gem.win_platform?
   Encoding.default_external = Encoding.find(Encoding.locale_charmap)
@@ -44,7 +47,12 @@ response = Net::HTTP.get_response(uri)
 doc = REXML::Document.new(response.body)
 
 # Получаем имя города из XML, город лежит в ноде REPORT/TOWN
-city_name = URI.unescape(doc.root.elements['REPORT/TOWN'].attributes['sname'])
+begin
+  city_name = URI.unescape(doc.root.elements['REPORT/TOWN'].attributes['sname'])
+rescue NoMethodError
+  # Для ruby версии 3.0.0 используем этот код:
+  city_name = CGI.unescape(doc.root.elements['REPORT/TOWN'].attributes['sname'])
+end
 
 # Достаем первый XML тэг из списка <FORECAST> внутри <TOWN> — прогноз на
 # ближайшее время со всей нужной нам информацией.
