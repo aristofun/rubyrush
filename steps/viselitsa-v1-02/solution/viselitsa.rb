@@ -10,7 +10,7 @@ if Gem.win_platform?
   end
 end
 
-require_relative 'viselitsa_methods'
+require_relative 'methods'
 
 cls
 
